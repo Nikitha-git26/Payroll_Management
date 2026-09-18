@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --surface-1: #fcfcfb;
+  --page-plane: #f9f9f7;
+}
+
+html,
+body {
+  background-color: var(--page-plane);
+  color: #0b0b0b;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #c3c2b7 transparent;
+}
+
+.card {
+  @apply rounded-xl border border-ink-100 bg-white shadow-card;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

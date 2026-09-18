@@ -1,0 +1,402 @@
+[
+  {
+    "customerId": "C001",
+    "expectedGross": 203302,
+    "expectedNet": 187507,
+    "processedNet": 187507,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C002",
+    "expectedGross": 610706,
+    "expectedNet": 559868,
+    "processedNet": 559868,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C003",
+    "expectedGross": 884519,
+    "expectedNet": 790818,
+    "processedNet": 790818,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C004",
+    "expectedGross": 325535,
+    "expectedNet": 296204,
+    "processedNet": 296204,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C005",
+    "expectedGross": 1186939,
+    "expectedNet": 1076239,
+    "processedNet": 987007,
+    "variance": -89232,
+    "reconciliationStatus": "Unreconciled"
+  },
+  {
+    "customerId": "C006",
+    "expectedGross": 1115311,
+    "expectedNet": 1003597,
+    "processedNet": 1002874,
+    "variance": -723,
+    "reconciliationStatus": "Unreconciled"
+  },
+  {
+    "customerId": "C007",
+    "expectedGross": 832957,
+    "expectedNet": 740009,
+    "processedNet": 740009,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C008",
+    "expectedGross": 350406,
+    "expectedNet": 314162,
+    "processedNet": 314162,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C009",
+    "expectedGross": 232314,
+    "expectedNet": 211011,
+    "processedNet": 199521,
+    "variance": -11490,
+    "reconciliationStatus": "Unreconciled"
+  },
+  {
+    "customerId": "C010",
+    "expectedGross": 245610,
+    "expectedNet": 222375,
+    "processedNet": 222375,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C011",
+    "expectedGross": 194043,
+    "expectedNet": 178801,
+    "processedNet": 178801,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C012",
+    "expectedGross": 841107,
+    "expectedNet": 762183,
+    "processedNet": 762183,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C013",
+    "expectedGross": 115828,
+    "expectedNet": 103291,
+    "processedNet": 103291,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C014",
+    "expectedGross": 548955,
+    "expectedNet": 496715,
+    "processedNet": 496715,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C015",
+    "expectedGross": 252405,
+    "expectedNet": 232579,
+    "processedNet": 232579,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C016",
+    "expectedGross": 356918,
+    "expectedNet": 325459,
+    "processedNet": 325459,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C017",
+    "expectedGross": 677103,
+    "expectedNet": 601745,
+    "processedNet": 601745,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C018",
+    "expectedGross": 213591,
+    "expectedNet": 190041,
+    "processedNet": 190041,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C019",
+    "expectedGross": 86389,
+    "expectedNet": 79746,
+    "processedNet": 73303,
+    "variance": -6443,
+    "reconciliationStatus": "Unreconciled"
+  },
+  {
+    "customerId": "C020",
+    "expectedGross": 468769,
+    "expectedNet": 422114,
+    "processedNet": 422114,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C021",
+    "expectedGross": 596771,
+    "expectedNet": 545805,
+    "processedNet": 545805,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C022",
+    "expectedGross": 863624,
+    "expectedNet": 773832,
+    "processedNet": 773832,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C023",
+    "expectedGross": 816512,
+    "expectedNet": 736851,
+    "processedNet": 736851,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C024",
+    "expectedGross": 255920,
+    "expectedNet": 233044,
+    "processedNet": 233044,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C025",
+    "expectedGross": 463848,
+    "expectedNet": 419512,
+    "processedNet": 428321,
+    "variance": 8809,
+    "reconciliationStatus": "Unreconciled"
+  },
+  {
+    "customerId": "C026",
+    "expectedGross": 252077,
+    "expectedNet": 228558,
+    "processedNet": 228558,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C027",
+    "expectedGross": 126535,
+    "expectedNet": 116808,
+    "processedNet": 116808,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C028",
+    "expectedGross": 276958,
+    "expectedNet": 249112,
+    "processedNet": 249112,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C029",
+    "expectedGross": 375722,
+    "expectedNet": 341357,
+    "processedNet": 341357,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C030",
+    "expectedGross": 532923,
+    "expectedNet": 483177,
+    "processedNet": 483177,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C031",
+    "expectedGross": 867719,
+    "expectedNet": 779796,
+    "processedNet": 779796,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C032",
+    "expectedGross": 711878,
+    "expectedNet": 638983,
+    "processedNet": 638983,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C033",
+    "expectedGross": 521858,
+    "expectedNet": 467096,
+    "processedNet": 467096,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C034",
+    "expectedGross": 705459,
+    "expectedNet": 631862,
+    "processedNet": 631862,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C035",
+    "expectedGross": 642189,
+    "expectedNet": 579428,
+    "processedNet": 579428,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C036",
+    "expectedGross": 302661,
+    "expectedNet": 270846,
+    "processedNet": 270846,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C037",
+    "expectedGross": 623483,
+    "expectedNet": 560633,
+    "processedNet": 560633,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C038",
+    "expectedGross": 430468,
+    "expectedNet": 385821,
+    "processedNet": 385821,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C039",
+    "expectedGross": 332963,
+    "expectedNet": 303480,
+    "processedNet": 296411,
+    "variance": -7069,
+    "reconciliationStatus": "Unreconciled"
+  },
+  {
+    "customerId": "C040",
+    "expectedGross": 194520,
+    "expectedNet": 179295,
+    "processedNet": 179295,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C041",
+    "expectedGross": 1356591,
+    "expectedNet": 1232611,
+    "processedNet": 1232611,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C042",
+    "expectedGross": 319689,
+    "expectedNet": 291787,
+    "processedNet": 291787,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C043",
+    "expectedGross": 805521,
+    "expectedNet": 730546,
+    "processedNet": 730546,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C044",
+    "expectedGross": 243648,
+    "expectedNet": 222431,
+    "processedNet": 222431,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C045",
+    "expectedGross": 220927,
+    "expectedNet": 204886,
+    "processedNet": 204886,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C046",
+    "expectedGross": 406658,
+    "expectedNet": 362885,
+    "processedNet": 362885,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C047",
+    "expectedGross": 608538,
+    "expectedNet": 540542,
+    "processedNet": 540542,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C048",
+    "expectedGross": 958789,
+    "expectedNet": 871654,
+    "processedNet": 870894,
+    "variance": -760,
+    "reconciliationStatus": "Unreconciled"
+  },
+  {
+    "customerId": "C049",
+    "expectedGross": 116269,
+    "expectedNet": 107065,
+    "processedNet": 107065,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  },
+  {
+    "customerId": "C050",
+    "expectedGross": 486308,
+    "expectedNet": 442462,
+    "processedNet": 442462,
+    "variance": 0,
+    "reconciliationStatus": "Reconciled"
+  }
+]

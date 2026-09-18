@@ -1,0 +1,41 @@
+customer_id,employee_id,exception_type,severity,recommended_action
+C038,E006,Missing UAN,High,Collect UAN or trigger new UAN generation via EPFO portal.
+C005,E008,Missing Bank Account,Critical,Request updated bank mandate from customer before payroll lock.
+C048,E013,Missing PAN,High,Collect PAN copy; required for statutory TDS mapping.
+C031,E019,Missing PAN,High,Collect PAN copy; required for statutory TDS mapping.
+C031,E054,Zero Attendance Days,Medium,Confirm attendance feed was received for this employee before payroll run.
+C030,E060,Zero Attendance Days,Medium,Confirm attendance feed was received for this employee before payroll run.
+C048,E069,Missing Bank Account,Critical,Request updated bank mandate from customer before payroll lock.
+C023,E071,Overtime Outlier (>50% of Basic),Medium,Escalate to customer for overtime approval before disbursal.
+C035,E083,Missing UAN,High,Collect UAN or trigger new UAN generation via EPFO portal.
+C007,E107,Missing Bank Account,Critical,Request updated bank mandate from customer before payroll lock.
+C027,E110,Invalid Bank Account Format,Critical,Re-verify account number with customer HR/finance POC.
+C041,E115,Missing UAN,High,Collect UAN or trigger new UAN generation via EPFO portal.
+C043,E124,Invalid Bank Account Format,Critical,Re-verify account number with customer HR/finance POC.
+C004,E127,Zero Attendance Days,Medium,Confirm attendance feed was received for this employee before payroll run.
+C050,E133,Missing Bank Account,Critical,Request updated bank mandate from customer before payroll lock.
+C024,E146,Overtime Outlier (>50% of Basic),Medium,Escalate to customer for overtime approval before disbursal.
+C002,E165,Missing Bank Account,Critical,Request updated bank mandate from customer before payroll lock.
+C045,E173,Missing Bank Account,Critical,Request updated bank mandate from customer before payroll lock.
+C032,E179,Missing PAN,High,Collect PAN copy; required for statutory TDS mapping.
+C046,E180,Invalid Bank Account Format,Critical,Re-verify account number with customer HR/finance POC.
+C021,E187,Missing UAN,High,Collect UAN or trigger new UAN generation via EPFO portal.
+C022,E204,Invalid Bank Account Format,Critical,Re-verify account number with customer HR/finance POC.
+C006,E208,Missing UAN,High,Collect UAN or trigger new UAN generation via EPFO portal.
+C002,E212,Overtime Outlier (>50% of Basic),Medium,Escalate to customer for overtime approval before disbursal.
+C031,E226,Negative Allowance Entry,Critical,Correct salary structure input; negative earnings block payroll run.
+C006,E241,Zero Attendance Days,Medium,Confirm attendance feed was received for this employee before payroll run.
+C002,E245,Negative Allowance Entry,Critical,Correct salary structure input; negative earnings block payroll run.
+C047,E246,Negative Allowance Entry,Critical,Correct salary structure input; negative earnings block payroll run.
+C010,E248,Negative Allowance Entry,Critical,Correct salary structure input; negative earnings block payroll run.
+C005,E257,Missing PAN,High,Collect PAN copy; required for statutory TDS mapping.
+C020,E276,Overtime Outlier (>50% of Basic),Medium,Escalate to customer for overtime approval before disbursal.
+C006,E278,Missing PAN,High,Collect PAN copy; required for statutory TDS mapping.
+C044,E292,Invalid Bank Account Format,Critical,Re-verify account number with customer HR/finance POC.
+C003,E299,Missing PAN,High,Collect PAN copy; required for statutory TDS mapping.
+C030,E191,Duplicate Employee ID,Critical,Reissue a unique employee ID; duplicate IDs will corrupt payroll register keys.
+C018,E191,Duplicate Employee ID,Critical,Reissue a unique employee ID; duplicate IDs will corrupt payroll register keys.
+C017,E262,Duplicate Employee ID,Critical,Reissue a unique employee ID; duplicate IDs will corrupt payroll register keys.
+C044,E262,Duplicate Employee ID,Critical,Reissue a unique employee ID; duplicate IDs will corrupt payroll register keys.
+C048,E178,Duplicate Employee ID,Critical,Reissue a unique employee ID; duplicate IDs will corrupt payroll register keys.
+C033,E178,Duplicate Employee ID,Critical,Reissue a unique employee ID; duplicate IDs will corrupt payroll register keys.

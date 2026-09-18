@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "T0001",
+    "customerId": "C001",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-13",
+    "status": "Completed"
+  },
+  {
+    "id": "T0002",
+    "customerId": "C001",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0003",
+    "customerId": "C001",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0004",
+    "customerId": "C001",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0005",
+    "customerId": "C001",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0006",
+    "customerId": "C001",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-30",
+    "status": "Completed"
+  },
+  {
+    "id": "T0007",
+    "customerId": "C001",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0008",
+    "customerId": "C001",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0009",
+    "customerId": "C001",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-11",
+    "status": "Blocked"
+  },
+  {
+    "id": "T0010",
+    "customerId": "C002",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0011",
+    "customerId": "C002",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-29",
+    "status": "Pending"
+  },
+  {
+    "id": "T0012",
+    "customerId": "C002",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-02",
+    "status": "Pending"
+  },
+  {
+    "id": "T0013",
+    "customerId": "C002",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-06",
+    "status": "Pending"
+  },
+  {
+    "id": "T0014",
+    "customerId": "C002",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-08",
+    "status": "Pending"
+  },
+  {
+    "id": "T0015",
+    "customerId": "C002",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-12",
+    "status": "Pending"
+  },
+  {
+    "id": "T0016",
+    "customerId": "C002",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-15",
+    "status": "Pending"
+  },
+  {
+    "id": "T0017",
+    "customerId": "C002",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-20",
+    "status": "Pending"
+  },
+  {
+    "id": "T0018",
+    "customerId": "C002",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-24",
+    "status": "Pending"
+  },
+  {
+    "id": "T0019",
+    "customerId": "C003",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0020",
+    "customerId": "C003",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-25",
+    "status": "Completed"
+  },
+  {
+    "id": "T0021",
+    "customerId": "C003",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0022",
+    "customerId": "C003",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0023",
+    "customerId": "C003",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-04",
+    "status": "Completed"
+  },
+  {
+    "id": "T0024",
+    "customerId": "C003",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-08",
+    "status": "Completed"
+  },
+  {
+    "id": "T0025",
+    "customerId": "C003",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0026",
+    "customerId": "C003",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0027",
+    "customerId": "C003",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0028",
+    "customerId": "C004",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0029",
+    "customerId": "C004",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-08",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0030",
+    "customerId": "C004",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-12",
+    "status": "Pending"
+  },
+  {
+    "id": "T0031",
+    "customerId": "C004",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-16",
+    "status": "Pending"
+  },
+  {
+    "id": "T0032",
+    "customerId": "C004",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-18",
+    "status": "Pending"
+  },
+  {
+    "id": "T0033",
+    "customerId": "C004",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-22",
+    "status": "Pending"
+  },
+  {
+    "id": "T0034",
+    "customerId": "C004",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-25",
+    "status": "Pending"
+  },
+  {
+    "id": "T0035",
+    "customerId": "C004",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-30",
+    "status": "Pending"
+  },
+  {
+    "id": "T0036",
+    "customerId": "C004",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-04",
+    "status": "Pending"
+  },
+  {
+    "id": "T0037",
+    "customerId": "C005",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-27",
+    "status": "Completed"
+  },
+  {
+    "id": "T0038",
+    "customerId": "C005",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-30",
+    "status": "Completed"
+  },
+  {
+    "id": "T0039",
+    "customerId": "C005",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0040",
+    "customerId": "C005",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0041",
+    "customerId": "C005",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0042",
+    "customerId": "C005",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-13",
+    "status": "Completed"
+  },
+  {
+    "id": "T0043",
+    "customerId": "C005",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0044",
+    "customerId": "C005",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0045",
+    "customerId": "C005",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-25",
+    "status": "Completed"
+  },
+  {
+    "id": "T0046",
+    "customerId": "C006",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-23",
+    "status": "Completed"
+  },
+  {
+    "id": "T0047",
+    "customerId": "C006",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0048",
+    "customerId": "C006",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-30",
+    "status": "Completed"
+  },
+  {
+    "id": "T0049",
+    "customerId": "C006",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0050",
+    "customerId": "C006",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0051",
+    "customerId": "C006",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-09",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0052",
+    "customerId": "C006",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-12",
+    "status": "Pending"
+  },
+  {
+    "id": "T0053",
+    "customerId": "C006",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-17",
+    "status": "Pending"
+  },
+  {
+    "id": "T0054",
+    "customerId": "C006",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-21",
+    "status": "Pending"
+  },
+  {
+    "id": "T0055",
+    "customerId": "C007",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-13",
+    "status": "Completed"
+  },
+  {
+    "id": "T0056",
+    "customerId": "C007",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0057",
+    "customerId": "C007",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0058",
+    "customerId": "C007",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0059",
+    "customerId": "C007",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0060",
+    "customerId": "C007",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-07-30",
+    "status": "Completed"
+  },
+  {
+    "id": "T0061",
+    "customerId": "C007",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0062",
+    "customerId": "C007",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0063",
+    "customerId": "C007",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0064",
+    "customerId": "C008",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-06",
+    "status": "Completed"
+  },
+  {
+    "id": "T0065",
+    "customerId": "C008",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0066",
+    "customerId": "C008",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-13",
+    "status": "Pending"
+  },
+  {
+    "id": "T0067",
+    "customerId": "C008",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-17",
+    "status": "Pending"
+  },
+  {
+    "id": "T0068",
+    "customerId": "C008",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0069",
+    "customerId": "C008",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "id": "T0070",
+    "customerId": "C008",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-26",
+    "status": "Pending"
+  },
+  {
+    "id": "T0071",
+    "customerId": "C008",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-10-01",
+    "status": "Pending"
+  },
+  {
+    "id": "T0072",
+    "customerId": "C008",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-05",
+    "status": "Pending"
+  },
+  {
+    "id": "T0073",
+    "customerId": "C009",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0074",
+    "customerId": "C009",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-08",
+    "status": "Completed"
+  },
+  {
+    "id": "T0075",
+    "customerId": "C009",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0076",
+    "customerId": "C009",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0077",
+    "customerId": "C009",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-18",
+    "status": "Completed"
+  },
+  {
+    "id": "T0078",
+    "customerId": "C009",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-22",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0079",
+    "customerId": "C009",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-25",
+    "status": "Pending"
+  },
+  {
+    "id": "T0080",
+    "customerId": "C009",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-30",
+    "status": "Pending"
+  },
+  {
+    "id": "T0081",
+    "customerId": "C009",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-03",
+    "status": "Pending"
+  },
+  {
+    "id": "T0082",
+    "customerId": "C010",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-23",
+    "status": "Completed"
+  },
+  {
+    "id": "T0083",
+    "customerId": "C010",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0084",
+    "customerId": "C010",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-30",
+    "status": "Completed"
+  },
+  {
+    "id": "T0085",
+    "customerId": "C010",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0086",
+    "customerId": "C010",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0087",
+    "customerId": "C010",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0088",
+    "customerId": "C010",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0089",
+    "customerId": "C010",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-17",
+    "status": "Completed"
+  },
+  {
+    "id": "T0090",
+    "customerId": "C010",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0091",
+    "customerId": "C011",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0092",
+    "customerId": "C011",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0093",
+    "customerId": "C011",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-02",
+    "status": "Pending"
+  },
+  {
+    "id": "T0094",
+    "customerId": "C011",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-06",
+    "status": "Pending"
+  },
+  {
+    "id": "T0095",
+    "customerId": "C011",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-08",
+    "status": "Pending"
+  },
+  {
+    "id": "T0096",
+    "customerId": "C011",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-12",
+    "status": "Pending"
+  },
+  {
+    "id": "T0097",
+    "customerId": "C011",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-15",
+    "status": "Pending"
+  },
+  {
+    "id": "T0098",
+    "customerId": "C011",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-20",
+    "status": "Pending"
+  },
+  {
+    "id": "T0099",
+    "customerId": "C011",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-24",
+    "status": "Pending"
+  },
+  {
+    "id": "T0100",
+    "customerId": "C012",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0101",
+    "customerId": "C012",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-25",
+    "status": "Completed"
+  },
+  {
+    "id": "T0102",
+    "customerId": "C012",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0103",
+    "customerId": "C012",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0104",
+    "customerId": "C012",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-04",
+    "status": "Completed"
+  },
+  {
+    "id": "T0105",
+    "customerId": "C012",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-08",
+    "status": "Completed"
+  },
+  {
+    "id": "T0106",
+    "customerId": "C012",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0107",
+    "customerId": "C012",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0108",
+    "customerId": "C012",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0109",
+    "customerId": "C013",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0110",
+    "customerId": "C013",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0111",
+    "customerId": "C013",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0112",
+    "customerId": "C013",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-06",
+    "status": "Completed"
+  },
+  {
+    "id": "T0113",
+    "customerId": "C013",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-08",
+    "status": "Completed"
+  },
+  {
+    "id": "T0114",
+    "customerId": "C013",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0115",
+    "customerId": "C013",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-15",
+    "status": "Completed"
+  },
+  {
+    "id": "T0116",
+    "customerId": "C013",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0117",
+    "customerId": "C013",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-24",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0118",
+    "customerId": "C014",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-04",
+    "status": "Completed"
+  },
+  {
+    "id": "T0119",
+    "customerId": "C014",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0120",
+    "customerId": "C014",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0121",
+    "customerId": "C014",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-15",
+    "status": "Completed"
+  },
+  {
+    "id": "T0122",
+    "customerId": "C014",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-17",
+    "status": "Completed"
+  },
+  {
+    "id": "T0123",
+    "customerId": "C014",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0124",
+    "customerId": "C014",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0125",
+    "customerId": "C014",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-29",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0126",
+    "customerId": "C014",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-02",
+    "status": "Pending"
+  },
+  {
+    "id": "T0127",
+    "customerId": "C015",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-19",
+    "status": "Completed"
+  },
+  {
+    "id": "T0128",
+    "customerId": "C015",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0129",
+    "customerId": "C015",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0130",
+    "customerId": "C015",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-30",
+    "status": "Pending"
+  },
+  {
+    "id": "T0131",
+    "customerId": "C015",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-01",
+    "status": "Pending"
+  },
+  {
+    "id": "T0132",
+    "customerId": "C015",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-05",
+    "status": "Pending"
+  },
+  {
+    "id": "T0133",
+    "customerId": "C015",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-08",
+    "status": "Pending"
+  },
+  {
+    "id": "T0134",
+    "customerId": "C015",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-13",
+    "status": "Pending"
+  },
+  {
+    "id": "T0135",
+    "customerId": "C015",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-17",
+    "status": "Pending"
+  },
+  {
+    "id": "T0136",
+    "customerId": "C016",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-19",
+    "status": "Completed"
+  },
+  {
+    "id": "T0137",
+    "customerId": "C016",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0138",
+    "customerId": "C016",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0139",
+    "customerId": "C016",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-30",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0140",
+    "customerId": "C016",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-01",
+    "status": "Pending"
+  },
+  {
+    "id": "T0141",
+    "customerId": "C016",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-05",
+    "status": "Pending"
+  },
+  {
+    "id": "T0142",
+    "customerId": "C016",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-08",
+    "status": "Pending"
+  },
+  {
+    "id": "T0143",
+    "customerId": "C016",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-13",
+    "status": "Pending"
+  },
+  {
+    "id": "T0144",
+    "customerId": "C016",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-17",
+    "status": "Pending"
+  },
+  {
+    "id": "T0145",
+    "customerId": "C017",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0146",
+    "customerId": "C017",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0147",
+    "customerId": "C017",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0148",
+    "customerId": "C017",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0149",
+    "customerId": "C017",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0150",
+    "customerId": "C017",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0151",
+    "customerId": "C017",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0152",
+    "customerId": "C017",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0153",
+    "customerId": "C017",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-07",
+    "status": "Pending"
+  },
+  {
+    "id": "T0154",
+    "customerId": "C018",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0155",
+    "customerId": "C018",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-23",
+    "status": "Pending"
+  },
+  {
+    "id": "T0156",
+    "customerId": "C018",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-27",
+    "status": "Pending"
+  },
+  {
+    "id": "T0157",
+    "customerId": "C018",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-31",
+    "status": "Pending"
+  },
+  {
+    "id": "T0158",
+    "customerId": "C018",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-02",
+    "status": "Pending"
+  },
+  {
+    "id": "T0159",
+    "customerId": "C018",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-06",
+    "status": "Pending"
+  },
+  {
+    "id": "T0160",
+    "customerId": "C018",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-09",
+    "status": "Pending"
+  },
+  {
+    "id": "T0161",
+    "customerId": "C018",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-14",
+    "status": "Pending"
+  },
+  {
+    "id": "T0162",
+    "customerId": "C018",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-18",
+    "status": "Pending"
+  },
+  {
+    "id": "T0163",
+    "customerId": "C019",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0164",
+    "customerId": "C019",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-15",
+    "status": "Completed"
+  },
+  {
+    "id": "T0165",
+    "customerId": "C019",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-19",
+    "status": "Completed"
+  },
+  {
+    "id": "T0166",
+    "customerId": "C019",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-23",
+    "status": "Completed"
+  },
+  {
+    "id": "T0167",
+    "customerId": "C019",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-25",
+    "status": "Completed"
+  },
+  {
+    "id": "T0168",
+    "customerId": "C019",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-07-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0169",
+    "customerId": "C019",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-01",
+    "status": "Completed"
+  },
+  {
+    "id": "T0170",
+    "customerId": "C019",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-06",
+    "status": "Completed"
+  },
+  {
+    "id": "T0171",
+    "customerId": "C019",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-10",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0172",
+    "customerId": "C020",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0173",
+    "customerId": "C020",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-31",
+    "status": "Completed"
+  },
+  {
+    "id": "T0174",
+    "customerId": "C020",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-04",
+    "status": "Completed"
+  },
+  {
+    "id": "T0175",
+    "customerId": "C020",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-08",
+    "status": "Completed"
+  },
+  {
+    "id": "T0176",
+    "customerId": "C020",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-10",
+    "status": "Completed"
+  },
+  {
+    "id": "T0177",
+    "customerId": "C020",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-14",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0178",
+    "customerId": "C020",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-17",
+    "status": "Blocked"
+  },
+  {
+    "id": "T0179",
+    "customerId": "C020",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-22",
+    "status": "Pending"
+  },
+  {
+    "id": "T0180",
+    "customerId": "C020",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-26",
+    "status": "Pending"
+  },
+  {
+    "id": "T0181",
+    "customerId": "C021",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-18",
+    "status": "Completed"
+  },
+  {
+    "id": "T0182",
+    "customerId": "C021",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0183",
+    "customerId": "C021",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-25",
+    "status": "Completed"
+  },
+  {
+    "id": "T0184",
+    "customerId": "C021",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0185",
+    "customerId": "C021",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-31",
+    "status": "Completed"
+  },
+  {
+    "id": "T0186",
+    "customerId": "C021",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-04",
+    "status": "Completed"
+  },
+  {
+    "id": "T0187",
+    "customerId": "C021",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0188",
+    "customerId": "C021",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0189",
+    "customerId": "C021",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-16",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0190",
+    "customerId": "C022",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-25",
+    "status": "Completed"
+  },
+  {
+    "id": "T0191",
+    "customerId": "C022",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0192",
+    "customerId": "C022",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-01",
+    "status": "Completed"
+  },
+  {
+    "id": "T0193",
+    "customerId": "C022",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0194",
+    "customerId": "C022",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0195",
+    "customerId": "C022",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-11",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0196",
+    "customerId": "C022",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-14",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0197",
+    "customerId": "C022",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0198",
+    "customerId": "C022",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "id": "T0199",
+    "customerId": "C023",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0200",
+    "customerId": "C023",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0201",
+    "customerId": "C023",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0202",
+    "customerId": "C023",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-13",
+    "status": "Pending"
+  },
+  {
+    "id": "T0203",
+    "customerId": "C023",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-15",
+    "status": "Pending"
+  },
+  {
+    "id": "T0204",
+    "customerId": "C023",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0205",
+    "customerId": "C023",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-22",
+    "status": "Pending"
+  },
+  {
+    "id": "T0206",
+    "customerId": "C023",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-27",
+    "status": "Pending"
+  },
+  {
+    "id": "T0207",
+    "customerId": "C023",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-01",
+    "status": "Pending"
+  },
+  {
+    "id": "T0208",
+    "customerId": "C024",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0209",
+    "customerId": "C024",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-14",
+    "status": "Completed"
+  },
+  {
+    "id": "T0210",
+    "customerId": "C024",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-18",
+    "status": "Completed"
+  },
+  {
+    "id": "T0211",
+    "customerId": "C024",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0212",
+    "customerId": "C024",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0213",
+    "customerId": "C024",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0214",
+    "customerId": "C024",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-31",
+    "status": "Completed"
+  },
+  {
+    "id": "T0215",
+    "customerId": "C024",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0216",
+    "customerId": "C024",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0217",
+    "customerId": "C025",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0218",
+    "customerId": "C025",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0219",
+    "customerId": "C025",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0220",
+    "customerId": "C025",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-01",
+    "status": "Completed"
+  },
+  {
+    "id": "T0221",
+    "customerId": "C025",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0222",
+    "customerId": "C025",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0223",
+    "customerId": "C025",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-10",
+    "status": "Completed"
+  },
+  {
+    "id": "T0224",
+    "customerId": "C025",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-15",
+    "status": "Pending"
+  },
+  {
+    "id": "T0225",
+    "customerId": "C025",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0226",
+    "customerId": "C026",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0227",
+    "customerId": "C026",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0228",
+    "customerId": "C026",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0229",
+    "customerId": "C026",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-01",
+    "status": "Completed"
+  },
+  {
+    "id": "T0230",
+    "customerId": "C026",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0231",
+    "customerId": "C026",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-07",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0232",
+    "customerId": "C026",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-10",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0233",
+    "customerId": "C026",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-15",
+    "status": "Pending"
+  },
+  {
+    "id": "T0234",
+    "customerId": "C026",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0235",
+    "customerId": "C027",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-30",
+    "status": "Completed"
+  },
+  {
+    "id": "T0236",
+    "customerId": "C027",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0237",
+    "customerId": "C027",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-06",
+    "status": "Completed"
+  },
+  {
+    "id": "T0238",
+    "customerId": "C027",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-10",
+    "status": "Pending"
+  },
+  {
+    "id": "T0239",
+    "customerId": "C027",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-12",
+    "status": "Pending"
+  },
+  {
+    "id": "T0240",
+    "customerId": "C027",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-16",
+    "status": "Pending"
+  },
+  {
+    "id": "T0241",
+    "customerId": "C027",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0242",
+    "customerId": "C027",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-24",
+    "status": "Pending"
+  },
+  {
+    "id": "T0243",
+    "customerId": "C027",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-28",
+    "status": "Pending"
+  },
+  {
+    "id": "T0244",
+    "customerId": "C028",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-02",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0245",
+    "customerId": "C028",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-05",
+    "status": "Pending"
+  },
+  {
+    "id": "T0246",
+    "customerId": "C028",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-09",
+    "status": "Pending"
+  },
+  {
+    "id": "T0247",
+    "customerId": "C028",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-13",
+    "status": "Pending"
+  },
+  {
+    "id": "T0248",
+    "customerId": "C028",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-15",
+    "status": "Pending"
+  },
+  {
+    "id": "T0249",
+    "customerId": "C028",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0250",
+    "customerId": "C028",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-22",
+    "status": "Pending"
+  },
+  {
+    "id": "T0251",
+    "customerId": "C028",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-27",
+    "status": "Pending"
+  },
+  {
+    "id": "T0252",
+    "customerId": "C028",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-31",
+    "status": "Pending"
+  },
+  {
+    "id": "T0253",
+    "customerId": "C029",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-06",
+    "status": "Completed"
+  },
+  {
+    "id": "T0254",
+    "customerId": "C029",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0255",
+    "customerId": "C029",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-13",
+    "status": "Completed"
+  },
+  {
+    "id": "T0256",
+    "customerId": "C029",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-17",
+    "status": "Completed"
+  },
+  {
+    "id": "T0257",
+    "customerId": "C029",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-19",
+    "status": "Completed"
+  },
+  {
+    "id": "T0258",
+    "customerId": "C029",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "id": "T0259",
+    "customerId": "C029",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-26",
+    "status": "Pending"
+  },
+  {
+    "id": "T0260",
+    "customerId": "C029",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-10-01",
+    "status": "Pending"
+  },
+  {
+    "id": "T0261",
+    "customerId": "C029",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-05",
+    "status": "Pending"
+  },
+  {
+    "id": "T0262",
+    "customerId": "C030",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0263",
+    "customerId": "C030",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-23",
+    "status": "Completed"
+  },
+  {
+    "id": "T0264",
+    "customerId": "C030",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-27",
+    "status": "Completed"
+  },
+  {
+    "id": "T0265",
+    "customerId": "C030",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-31",
+    "status": "Pending"
+  },
+  {
+    "id": "T0266",
+    "customerId": "C030",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-02",
+    "status": "Pending"
+  },
+  {
+    "id": "T0267",
+    "customerId": "C030",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-06",
+    "status": "Pending"
+  },
+  {
+    "id": "T0268",
+    "customerId": "C030",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-09",
+    "status": "Pending"
+  },
+  {
+    "id": "T0269",
+    "customerId": "C030",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-14",
+    "status": "Pending"
+  },
+  {
+    "id": "T0270",
+    "customerId": "C030",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-18",
+    "status": "Pending"
+  },
+  {
+    "id": "T0271",
+    "customerId": "C031",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-10",
+    "status": "Completed"
+  },
+  {
+    "id": "T0272",
+    "customerId": "C031",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-13",
+    "status": "Completed"
+  },
+  {
+    "id": "T0273",
+    "customerId": "C031",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-17",
+    "status": "Completed"
+  },
+  {
+    "id": "T0274",
+    "customerId": "C031",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-21",
+    "status": "Pending"
+  },
+  {
+    "id": "T0275",
+    "customerId": "C031",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "id": "T0276",
+    "customerId": "C031",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-27",
+    "status": "Pending"
+  },
+  {
+    "id": "T0277",
+    "customerId": "C031",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-30",
+    "status": "Pending"
+  },
+  {
+    "id": "T0278",
+    "customerId": "C031",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-10-05",
+    "status": "Pending"
+  },
+  {
+    "id": "T0279",
+    "customerId": "C031",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-09",
+    "status": "Pending"
+  },
+  {
+    "id": "T0280",
+    "customerId": "C032",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0281",
+    "customerId": "C032",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-06",
+    "status": "Completed"
+  },
+  {
+    "id": "T0282",
+    "customerId": "C032",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-10",
+    "status": "Completed"
+  },
+  {
+    "id": "T0283",
+    "customerId": "C032",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-14",
+    "status": "Completed"
+  },
+  {
+    "id": "T0284",
+    "customerId": "C032",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0285",
+    "customerId": "C032",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0286",
+    "customerId": "C032",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-23",
+    "status": "Completed"
+  },
+  {
+    "id": "T0287",
+    "customerId": "C032",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0288",
+    "customerId": "C032",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-02",
+    "status": "Pending"
+  },
+  {
+    "id": "T0289",
+    "customerId": "C033",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0290",
+    "customerId": "C033",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0291",
+    "customerId": "C033",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-09",
+    "status": "Blocked"
+  },
+  {
+    "id": "T0292",
+    "customerId": "C033",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-13",
+    "status": "Blocked"
+  },
+  {
+    "id": "T0293",
+    "customerId": "C033",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-15",
+    "status": "Pending"
+  },
+  {
+    "id": "T0294",
+    "customerId": "C033",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0295",
+    "customerId": "C033",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-22",
+    "status": "Pending"
+  },
+  {
+    "id": "T0296",
+    "customerId": "C033",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-27",
+    "status": "Pending"
+  },
+  {
+    "id": "T0297",
+    "customerId": "C033",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-31",
+    "status": "Pending"
+  },
+  {
+    "id": "T0298",
+    "customerId": "C034",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0299",
+    "customerId": "C034",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0300",
+    "customerId": "C034",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0301",
+    "customerId": "C034",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-01",
+    "status": "Completed"
+  },
+  {
+    "id": "T0302",
+    "customerId": "C034",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0303",
+    "customerId": "C034",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0304",
+    "customerId": "C034",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-10",
+    "status": "Completed"
+  },
+  {
+    "id": "T0305",
+    "customerId": "C034",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-15",
+    "status": "Completed"
+  },
+  {
+    "id": "T0306",
+    "customerId": "C034",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-19",
+    "status": "Completed"
+  },
+  {
+    "id": "T0307",
+    "customerId": "C035",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-31",
+    "status": "Completed"
+  },
+  {
+    "id": "T0308",
+    "customerId": "C035",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0309",
+    "customerId": "C035",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0310",
+    "customerId": "C035",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0311",
+    "customerId": "C035",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-13",
+    "status": "Completed"
+  },
+  {
+    "id": "T0312",
+    "customerId": "C035",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-17",
+    "status": "Completed"
+  },
+  {
+    "id": "T0313",
+    "customerId": "C035",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0314",
+    "customerId": "C035",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-25",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0315",
+    "customerId": "C035",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-29",
+    "status": "Pending"
+  },
+  {
+    "id": "T0316",
+    "customerId": "C036",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0317",
+    "customerId": "C036",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-10",
+    "status": "Completed"
+  },
+  {
+    "id": "T0318",
+    "customerId": "C036",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-14",
+    "status": "Completed"
+  },
+  {
+    "id": "T0319",
+    "customerId": "C036",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-18",
+    "status": "Completed"
+  },
+  {
+    "id": "T0320",
+    "customerId": "C036",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0321",
+    "customerId": "C036",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-24",
+    "status": "Pending"
+  },
+  {
+    "id": "T0322",
+    "customerId": "C036",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-27",
+    "status": "Completed"
+  },
+  {
+    "id": "T0323",
+    "customerId": "C036",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-01",
+    "status": "Pending"
+  },
+  {
+    "id": "T0324",
+    "customerId": "C036",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-05",
+    "status": "Pending"
+  },
+  {
+    "id": "T0325",
+    "customerId": "C037",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-18",
+    "status": "Completed"
+  },
+  {
+    "id": "T0326",
+    "customerId": "C037",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0327",
+    "customerId": "C037",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-25",
+    "status": "Completed"
+  },
+  {
+    "id": "T0328",
+    "customerId": "C037",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0329",
+    "customerId": "C037",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-31",
+    "status": "Completed"
+  },
+  {
+    "id": "T0330",
+    "customerId": "C037",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-04",
+    "status": "Completed"
+  },
+  {
+    "id": "T0331",
+    "customerId": "C037",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0332",
+    "customerId": "C037",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0333",
+    "customerId": "C037",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0334",
+    "customerId": "C038",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0335",
+    "customerId": "C038",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0336",
+    "customerId": "C038",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0337",
+    "customerId": "C038",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0338",
+    "customerId": "C038",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0339",
+    "customerId": "C038",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0340",
+    "customerId": "C038",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0341",
+    "customerId": "C038",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-10-04",
+    "status": "Completed"
+  },
+  {
+    "id": "T0342",
+    "customerId": "C038",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-08",
+    "status": "Pending"
+  },
+  {
+    "id": "T0343",
+    "customerId": "C039",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-17",
+    "status": "Completed"
+  },
+  {
+    "id": "T0344",
+    "customerId": "C039",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0345",
+    "customerId": "C039",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0346",
+    "customerId": "C039",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0347",
+    "customerId": "C039",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-30",
+    "status": "Completed"
+  },
+  {
+    "id": "T0348",
+    "customerId": "C039",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0349",
+    "customerId": "C039",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-06",
+    "status": "Completed"
+  },
+  {
+    "id": "T0350",
+    "customerId": "C039",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0351",
+    "customerId": "C039",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-15",
+    "status": "Completed"
+  },
+  {
+    "id": "T0352",
+    "customerId": "C040",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-06",
+    "status": "Completed"
+  },
+  {
+    "id": "T0353",
+    "customerId": "C040",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0354",
+    "customerId": "C040",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-13",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0355",
+    "customerId": "C040",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-17",
+    "status": "Pending"
+  },
+  {
+    "id": "T0356",
+    "customerId": "C040",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0357",
+    "customerId": "C040",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "id": "T0358",
+    "customerId": "C040",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-26",
+    "status": "Pending"
+  },
+  {
+    "id": "T0359",
+    "customerId": "C040",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-10-01",
+    "status": "Pending"
+  },
+  {
+    "id": "T0360",
+    "customerId": "C040",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-05",
+    "status": "Pending"
+  },
+  {
+    "id": "T0361",
+    "customerId": "C041",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-08",
+    "status": "Completed"
+  },
+  {
+    "id": "T0362",
+    "customerId": "C041",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0363",
+    "customerId": "C041",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-15",
+    "status": "Completed"
+  },
+  {
+    "id": "T0364",
+    "customerId": "C041",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-19",
+    "status": "Completed"
+  },
+  {
+    "id": "T0365",
+    "customerId": "C041",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-21",
+    "status": "Pending"
+  },
+  {
+    "id": "T0366",
+    "customerId": "C041",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-25",
+    "status": "Pending"
+  },
+  {
+    "id": "T0367",
+    "customerId": "C041",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-28",
+    "status": "Pending"
+  },
+  {
+    "id": "T0368",
+    "customerId": "C041",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-10-03",
+    "status": "Pending"
+  },
+  {
+    "id": "T0369",
+    "customerId": "C041",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-10-07",
+    "status": "Pending"
+  },
+  {
+    "id": "T0370",
+    "customerId": "C042",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-13",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0371",
+    "customerId": "C042",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-16",
+    "status": "Pending"
+  },
+  {
+    "id": "T0372",
+    "customerId": "C042",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-20",
+    "status": "Pending"
+  },
+  {
+    "id": "T0373",
+    "customerId": "C042",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-24",
+    "status": "Pending"
+  },
+  {
+    "id": "T0374",
+    "customerId": "C042",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-26",
+    "status": "Pending"
+  },
+  {
+    "id": "T0375",
+    "customerId": "C042",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-30",
+    "status": "Pending"
+  },
+  {
+    "id": "T0376",
+    "customerId": "C042",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-02",
+    "status": "Pending"
+  },
+  {
+    "id": "T0377",
+    "customerId": "C042",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-07",
+    "status": "Pending"
+  },
+  {
+    "id": "T0378",
+    "customerId": "C042",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-11",
+    "status": "Pending"
+  },
+  {
+    "id": "T0379",
+    "customerId": "C043",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-09",
+    "status": "Completed"
+  },
+  {
+    "id": "T0380",
+    "customerId": "C043",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0381",
+    "customerId": "C043",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0382",
+    "customerId": "C043",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0383",
+    "customerId": "C043",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0384",
+    "customerId": "C043",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-07-26",
+    "status": "Completed"
+  },
+  {
+    "id": "T0385",
+    "customerId": "C043",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-07-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0386",
+    "customerId": "C043",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0387",
+    "customerId": "C043",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-07",
+    "status": "Pending"
+  },
+  {
+    "id": "T0388",
+    "customerId": "C044",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0389",
+    "customerId": "C044",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-07-19",
+    "status": "Completed"
+  },
+  {
+    "id": "T0390",
+    "customerId": "C044",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-07-23",
+    "status": "Completed"
+  },
+  {
+    "id": "T0391",
+    "customerId": "C044",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-27",
+    "status": "Completed"
+  },
+  {
+    "id": "T0392",
+    "customerId": "C044",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-07-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0393",
+    "customerId": "C044",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-02",
+    "status": "Completed"
+  },
+  {
+    "id": "T0394",
+    "customerId": "C044",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0395",
+    "customerId": "C044",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-10",
+    "status": "Completed"
+  },
+  {
+    "id": "T0396",
+    "customerId": "C044",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-14",
+    "status": "Completed"
+  },
+  {
+    "id": "T0397",
+    "customerId": "C045",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-05",
+    "status": "Completed"
+  },
+  {
+    "id": "T0398",
+    "customerId": "C045",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-08",
+    "status": "Completed"
+  },
+  {
+    "id": "T0399",
+    "customerId": "C045",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-12",
+    "status": "Completed"
+  },
+  {
+    "id": "T0400",
+    "customerId": "C045",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-16",
+    "status": "Completed"
+  },
+  {
+    "id": "T0401",
+    "customerId": "C045",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-18",
+    "status": "Completed"
+  },
+  {
+    "id": "T0402",
+    "customerId": "C045",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-22",
+    "status": "Pending"
+  },
+  {
+    "id": "T0403",
+    "customerId": "C045",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-25",
+    "status": "Pending"
+  },
+  {
+    "id": "T0404",
+    "customerId": "C045",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-30",
+    "status": "Pending"
+  },
+  {
+    "id": "T0405",
+    "customerId": "C045",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-03",
+    "status": "Pending"
+  },
+  {
+    "id": "T0406",
+    "customerId": "C046",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-21",
+    "status": "Completed"
+  },
+  {
+    "id": "T0407",
+    "customerId": "C046",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0408",
+    "customerId": "C046",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0409",
+    "customerId": "C046",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-01",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0410",
+    "customerId": "C046",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0411",
+    "customerId": "C046",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-07",
+    "status": "Pending"
+  },
+  {
+    "id": "T0412",
+    "customerId": "C046",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-10",
+    "status": "Pending"
+  },
+  {
+    "id": "T0413",
+    "customerId": "C046",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-15",
+    "status": "Pending"
+  },
+  {
+    "id": "T0414",
+    "customerId": "C046",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-19",
+    "status": "Pending"
+  },
+  {
+    "id": "T0415",
+    "customerId": "C047",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-09-01",
+    "status": "Completed"
+  },
+  {
+    "id": "T0416",
+    "customerId": "C047",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-04",
+    "status": "Completed"
+  },
+  {
+    "id": "T0417",
+    "customerId": "C047",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-08",
+    "status": "Pending"
+  },
+  {
+    "id": "T0418",
+    "customerId": "C047",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-12",
+    "status": "Pending"
+  },
+  {
+    "id": "T0419",
+    "customerId": "C047",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-14",
+    "status": "Pending"
+  },
+  {
+    "id": "T0420",
+    "customerId": "C047",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-18",
+    "status": "Pending"
+  },
+  {
+    "id": "T0421",
+    "customerId": "C047",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-21",
+    "status": "Pending"
+  },
+  {
+    "id": "T0422",
+    "customerId": "C047",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-26",
+    "status": "Pending"
+  },
+  {
+    "id": "T0423",
+    "customerId": "C047",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-30",
+    "status": "Pending"
+  },
+  {
+    "id": "T0424",
+    "customerId": "C048",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-31",
+    "status": "Completed"
+  },
+  {
+    "id": "T0425",
+    "customerId": "C048",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-09-03",
+    "status": "Completed"
+  },
+  {
+    "id": "T0426",
+    "customerId": "C048",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-09-07",
+    "status": "Completed"
+  },
+  {
+    "id": "T0427",
+    "customerId": "C048",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0428",
+    "customerId": "C048",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-09-13",
+    "status": "Completed"
+  },
+  {
+    "id": "T0429",
+    "customerId": "C048",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-17",
+    "status": "Completed"
+  },
+  {
+    "id": "T0430",
+    "customerId": "C048",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-20",
+    "status": "Completed"
+  },
+  {
+    "id": "T0431",
+    "customerId": "C048",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-25",
+    "status": "Completed"
+  },
+  {
+    "id": "T0432",
+    "customerId": "C048",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-29",
+    "status": "Completed"
+  },
+  {
+    "id": "T0433",
+    "customerId": "C049",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-07-31",
+    "status": "Blocked"
+  },
+  {
+    "id": "T0434",
+    "customerId": "C049",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-03",
+    "status": "Pending"
+  },
+  {
+    "id": "T0435",
+    "customerId": "C049",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-07",
+    "status": "Pending"
+  },
+  {
+    "id": "T0436",
+    "customerId": "C049",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-11",
+    "status": "Pending"
+  },
+  {
+    "id": "T0437",
+    "customerId": "C049",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-13",
+    "status": "Pending"
+  },
+  {
+    "id": "T0438",
+    "customerId": "C049",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-17",
+    "status": "Pending"
+  },
+  {
+    "id": "T0439",
+    "customerId": "C049",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-20",
+    "status": "Pending"
+  },
+  {
+    "id": "T0440",
+    "customerId": "C049",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-25",
+    "status": "Pending"
+  },
+  {
+    "id": "T0441",
+    "customerId": "C049",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-08-29",
+    "status": "Pending"
+  },
+  {
+    "id": "T0442",
+    "customerId": "C050",
+    "taskName": "Company Info & KYC",
+    "owner": "Customer",
+    "dueDate": "2026-08-11",
+    "status": "Completed"
+  },
+  {
+    "id": "T0443",
+    "customerId": "C050",
+    "taskName": "Document Collection",
+    "owner": "Customer",
+    "dueDate": "2026-08-14",
+    "status": "Completed"
+  },
+  {
+    "id": "T0444",
+    "customerId": "C050",
+    "taskName": "Employee Data Upload",
+    "owner": "Customer",
+    "dueDate": "2026-08-18",
+    "status": "Completed"
+  },
+  {
+    "id": "T0445",
+    "customerId": "C050",
+    "taskName": "Bank Details Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-22",
+    "status": "Completed"
+  },
+  {
+    "id": "T0446",
+    "customerId": "C050",
+    "taskName": "PAN / UAN Verification",
+    "owner": "Ops",
+    "dueDate": "2026-08-24",
+    "status": "Completed"
+  },
+  {
+    "id": "T0447",
+    "customerId": "C050",
+    "taskName": "Attendance & Leave Config",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-28",
+    "status": "Completed"
+  },
+  {
+    "id": "T0448",
+    "customerId": "C050",
+    "taskName": "Salary Structure Mapping",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-08-31",
+    "status": "Completed"
+  },
+  {
+    "id": "T0449",
+    "customerId": "C050",
+    "taskName": "Pre-run Reconciliation",
+    "owner": "Payroll Ops",
+    "dueDate": "2026-09-05",
+    "status": "In Progress"
+  },
+  {
+    "id": "T0450",
+    "customerId": "C050",
+    "taskName": "Customer Approval Sign-off",
+    "owner": "Customer",
+    "dueDate": "2026-09-09",
+    "status": "Pending"
+  }
+]

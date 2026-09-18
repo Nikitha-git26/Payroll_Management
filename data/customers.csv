@@ -1,0 +1,51 @@
+customer_id,company_name,industry,employee_count,onboarding_start_date,target_closure_date,current_stage,status
+C001,Everest Systems,EdTech,20,2026-08-11,2026-10-14,Approval,Blocked
+C002,Anchor Works,Hospitality,32,2026-07-24,2026-09-23,Documents,At Risk
+C003,Zenith Solutions,E-commerce,38,2026-07-20,2026-09-13,Completed,Completed
+C004,Bridge Industries,Logistics,12,2026-09-03,2026-10-25,Documents,On Track
+C005,Nimbus Group,E-commerce,32,2026-07-25,2026-09-07,Completed,Completed
+C006,Wavelength Works,EdTech,32,2026-07-21,2026-08-27,Payroll Setup,Blocked
+C007,Bridge Technologies,Hospitality,29,2026-07-11,2026-09-08,Completed,Completed
+C008,Union Solutions,Media & Entertainment,17,2026-09-04,2026-10-22,Employee Upload,On Track
+C009,Ironclad Industries,Healthcare,12,2026-08-03,2026-09-28,Payroll Setup,On Track
+C010,Fjord Group,IT Services,15,2026-07-21,2026-09-22,Completed,Completed
+C011,Quill Industries,Retail,14,2026-08-24,2026-10-20,Documents,On Track
+C012,Onyx Services,Hospitality,33,2026-07-20,2026-09-14,Approval,At Risk
+C013,Zenith Labs,IT Services,9,2026-08-24,2026-09-27,Approval,On Track
+C014,Quill Labs,IT Services,32,2026-08-02,2026-09-26,Customer Review,On Track
+C015,Novo Solutions,EdTech,5,2026-08-17,2026-10-03,Employee Upload,On Track
+C016,Zephyr Systems,IT Services,12,2026-07-17,2026-08-18,Validation,At Risk
+C017,Vertex Group,E-commerce,24,2026-08-07,2026-10-07,Approval,On Track
+C018,Union Systems,Healthcare,10,2026-08-18,2026-09-17,Documents,At Risk
+C019,Juniper Technologies,Media & Entertainment,22,2026-07-10,2026-08-15,Approval,At Risk
+C020,Indus Industries,Manufacturing,15,2026-07-26,2026-09-19,Payroll Setup,Blocked
+C021,Redwood Services,Healthcare,39,2026-08-16,2026-10-21,Approval,On Track
+C022,Monarch Works,Manufacturing,32,2026-08-23,2026-10-20,Payroll Setup,On Track
+C023,Delta Services,Logistics,37,2026-08-31,2026-10-18,Employee Upload,On Track
+C024,Onyx Labs,FinTech,10,2026-08-09,2026-10-12,Completed,Completed
+C025,Yarrow Group,EdTech,19,2026-08-19,2026-10-13,Customer Review,On Track
+C026,Fjord Services,Hospitality,19,2026-07-19,2026-08-19,Payroll Setup,At Risk
+C027,Harbor Technologies,EdTech,7,2026-08-28,2026-10-20,Employee Upload,On Track
+C028,Zephyr Labs,Logistics,16,2026-07-31,2026-09-22,Customer Created,At Risk
+C029,Union Industries,Logistics,32,2026-09-04,2026-10-07,Payroll Setup,On Track
+C030,Indus Labs,FinTech,21,2026-07-18,2026-08-27,Validation,At Risk
+C031,Orbit Services,Healthcare,34,2026-09-08,2026-11-12,Employee Upload,On Track
+C032,Pioneer Services,EdTech,28,2026-09-01,2026-10-12,Approval,On Track
+C033,Umber Systems,Healthcare,7,2026-07-31,2026-10-05,Employee Upload,Blocked
+C034,Horizon Labs,FinTech,17,2026-08-19,2026-10-21,Completed,Completed
+C035,Willow Solutions,Manufacturing,39,2026-07-29,2026-09-08,Customer Review,At Risk
+C036,Zephyr Works,E-commerce,10,2026-08-05,2026-09-05,Payroll Setup,At Risk
+C037,Horizon Works,IT Services,31,2026-07-16,2026-09-19,Completed,Completed
+C038,Falcon Labs,Logistics,15,2026-09-07,2026-11-06,Approval,On Track
+C039,Sable Services,Hospitality,31,2026-08-15,2026-09-24,Completed,Completed
+C040,Vantage Technologies,IT Services,8,2026-09-04,2026-11-06,Employee Upload,On Track
+C041,Summit Labs,Hospitality,36,2026-09-06,2026-10-13,Validation,On Track
+C042,Quartz Works,Logistics,22,2026-08-11,2026-09-15,Customer Created,At Risk
+C043,Nimbus Technologies,IT Services,29,2026-07-07,2026-08-10,Customer Review,At Risk
+C044,Monarch Labs,Logistics,11,2026-07-14,2026-09-14,Approval,At Risk
+C045,Prism Technologies,Logistics,8,2026-08-03,2026-10-09,Payroll Setup,On Track
+C046,Granite Industries,FinTech,28,2026-08-19,2026-10-26,Validation,On Track
+C047,Yarrow Services,FinTech,24,2026-08-30,2026-10-24,Documents,On Track
+C048,Lattice Industries,IT Services,39,2026-08-29,2026-10-21,Completed,Completed
+C049,Knox Systems,Logistics,21,2026-07-29,2026-09-28,Customer Created,Blocked
+C050,Orbit Systems,Manufacturing,33,2026-08-09,2026-09-17,Customer Review,At Risk

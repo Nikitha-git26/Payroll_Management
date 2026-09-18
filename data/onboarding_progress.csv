@@ -1,0 +1,51 @@
+customer_id,company_name,current_stage,status,computed_status,completion_percentage,days_remaining
+C001,Everest Systems,Approval,Blocked,Blocked,88.9,26
+C002,Anchor Works,Documents,At Risk,At Risk,11.1,5
+C003,Zenith Solutions,Completed,Completed,Completed,100.0,-5
+C004,Bridge Industries,Documents,On Track,On Track,11.1,37
+C005,Nimbus Group,Completed,Completed,Completed,100.0,-11
+C006,Wavelength Works,Payroll Setup,Blocked,SLA Breach,55.6,-22
+C007,Bridge Technologies,Completed,Completed,Completed,100.0,-10
+C008,Union Solutions,Employee Upload,On Track,On Track,22.2,34
+C009,Ironclad Industries,Payroll Setup,On Track,On Track,55.6,10
+C010,Fjord Group,Completed,Completed,Completed,100.0,4
+C011,Quill Industries,Documents,On Track,On Track,22.2,32
+C012,Onyx Services,Approval,At Risk,SLA Breach,100.0,-4
+C013,Zenith Labs,Approval,On Track,On Track,88.9,9
+C014,Quill Labs,Customer Review,On Track,On Track,77.8,8
+C015,Novo Solutions,Employee Upload,On Track,On Track,33.3,15
+C016,Zephyr Systems,Validation,At Risk,SLA Breach,33.3,-31
+C017,Vertex Group,Approval,On Track,On Track,88.9,19
+C018,Union Systems,Documents,At Risk,SLA Breach,11.1,-1
+C019,Juniper Technologies,Approval,At Risk,SLA Breach,88.9,-34
+C020,Indus Industries,Payroll Setup,Blocked,Blocked,55.6,1
+C021,Redwood Services,Approval,On Track,On Track,88.9,33
+C022,Monarch Works,Payroll Setup,On Track,On Track,55.6,32
+C023,Delta Services,Employee Upload,On Track,On Track,33.3,30
+C024,Onyx Labs,Completed,Completed,Completed,100.0,24
+C025,Yarrow Group,Customer Review,On Track,On Track,77.8,25
+C026,Fjord Services,Payroll Setup,At Risk,SLA Breach,55.6,-30
+C027,Harbor Technologies,Employee Upload,On Track,On Track,33.3,32
+C028,Zephyr Labs,Customer Created,At Risk,At Risk,0.0,4
+C029,Union Industries,Payroll Setup,On Track,On Track,55.6,19
+C030,Indus Labs,Validation,At Risk,SLA Breach,33.3,-22
+C031,Orbit Services,Employee Upload,On Track,On Track,33.3,55
+C032,Pioneer Services,Approval,On Track,On Track,88.9,24
+C033,Umber Systems,Employee Upload,Blocked,Blocked,22.2,17
+C034,Horizon Labs,Completed,Completed,Completed,100.0,33
+C035,Willow Solutions,Customer Review,At Risk,SLA Breach,77.8,-10
+C036,Zephyr Works,Payroll Setup,At Risk,SLA Breach,66.7,-13
+C037,Horizon Works,Completed,Completed,Completed,100.0,1
+C038,Falcon Labs,Approval,On Track,On Track,88.9,49
+C039,Sable Services,Completed,Completed,Completed,100.0,6
+C040,Vantage Technologies,Employee Upload,On Track,On Track,22.2,49
+C041,Summit Labs,Validation,On Track,On Track,44.4,25
+C042,Quartz Works,Customer Created,At Risk,SLA Breach,0.0,-3
+C043,Nimbus Technologies,Customer Review,At Risk,SLA Breach,88.9,-39
+C044,Monarch Labs,Approval,At Risk,SLA Breach,100.0,-4
+C045,Prism Technologies,Payroll Setup,On Track,On Track,55.6,21
+C046,Granite Industries,Validation,On Track,On Track,44.4,38
+C047,Yarrow Services,Documents,On Track,On Track,22.2,36
+C048,Lattice Industries,Completed,Completed,Completed,100.0,33
+C049,Knox Systems,Customer Created,Blocked,Blocked,0.0,10
+C050,Orbit Systems,Customer Review,At Risk,SLA Breach,77.8,-1

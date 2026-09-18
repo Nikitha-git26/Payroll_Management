@@ -1,0 +1,451 @@
+task_id,customer_id,task_name,owner,due_date,status
+T0001,C001,Company Info & KYC,Customer,2026-08-13,Completed
+T0002,C001,Document Collection,Customer,2026-08-16,Completed
+T0003,C001,Employee Data Upload,Customer,2026-08-20,Completed
+T0004,C001,Bank Details Verification,Ops,2026-08-24,Completed
+T0005,C001,PAN / UAN Verification,Ops,2026-08-26,Completed
+T0006,C001,Attendance & Leave Config,Payroll Ops,2026-08-30,Completed
+T0007,C001,Salary Structure Mapping,Payroll Ops,2026-09-02,Completed
+T0008,C001,Pre-run Reconciliation,Payroll Ops,2026-09-07,Completed
+T0009,C001,Customer Approval Sign-off,Customer,2026-09-11,Blocked
+T0010,C002,Company Info & KYC,Customer,2026-07-26,Completed
+T0011,C002,Document Collection,Customer,2026-07-29,Pending
+T0012,C002,Employee Data Upload,Customer,2026-08-02,Pending
+T0013,C002,Bank Details Verification,Ops,2026-08-06,Pending
+T0014,C002,PAN / UAN Verification,Ops,2026-08-08,Pending
+T0015,C002,Attendance & Leave Config,Payroll Ops,2026-08-12,Pending
+T0016,C002,Salary Structure Mapping,Payroll Ops,2026-08-15,Pending
+T0017,C002,Pre-run Reconciliation,Payroll Ops,2026-08-20,Pending
+T0018,C002,Customer Approval Sign-off,Customer,2026-08-24,Pending
+T0019,C003,Company Info & KYC,Customer,2026-07-22,Completed
+T0020,C003,Document Collection,Customer,2026-07-25,Completed
+T0021,C003,Employee Data Upload,Customer,2026-07-29,Completed
+T0022,C003,Bank Details Verification,Ops,2026-08-02,Completed
+T0023,C003,PAN / UAN Verification,Ops,2026-08-04,Completed
+T0024,C003,Attendance & Leave Config,Payroll Ops,2026-08-08,Completed
+T0025,C003,Salary Structure Mapping,Payroll Ops,2026-08-11,Completed
+T0026,C003,Pre-run Reconciliation,Payroll Ops,2026-08-16,Completed
+T0027,C003,Customer Approval Sign-off,Customer,2026-08-20,Completed
+T0028,C004,Company Info & KYC,Customer,2026-09-05,Completed
+T0029,C004,Document Collection,Customer,2026-09-08,In Progress
+T0030,C004,Employee Data Upload,Customer,2026-09-12,Pending
+T0031,C004,Bank Details Verification,Ops,2026-09-16,Pending
+T0032,C004,PAN / UAN Verification,Ops,2026-09-18,Pending
+T0033,C004,Attendance & Leave Config,Payroll Ops,2026-09-22,Pending
+T0034,C004,Salary Structure Mapping,Payroll Ops,2026-09-25,Pending
+T0035,C004,Pre-run Reconciliation,Payroll Ops,2026-09-30,Pending
+T0036,C004,Customer Approval Sign-off,Customer,2026-10-04,Pending
+T0037,C005,Company Info & KYC,Customer,2026-07-27,Completed
+T0038,C005,Document Collection,Customer,2026-07-30,Completed
+T0039,C005,Employee Data Upload,Customer,2026-08-03,Completed
+T0040,C005,Bank Details Verification,Ops,2026-08-07,Completed
+T0041,C005,PAN / UAN Verification,Ops,2026-08-09,Completed
+T0042,C005,Attendance & Leave Config,Payroll Ops,2026-08-13,Completed
+T0043,C005,Salary Structure Mapping,Payroll Ops,2026-08-16,Completed
+T0044,C005,Pre-run Reconciliation,Payroll Ops,2026-08-21,Completed
+T0045,C005,Customer Approval Sign-off,Customer,2026-08-25,Completed
+T0046,C006,Company Info & KYC,Customer,2026-07-23,Completed
+T0047,C006,Document Collection,Customer,2026-07-26,Completed
+T0048,C006,Employee Data Upload,Customer,2026-07-30,Completed
+T0049,C006,Bank Details Verification,Ops,2026-08-03,Completed
+T0050,C006,PAN / UAN Verification,Ops,2026-08-05,Completed
+T0051,C006,Attendance & Leave Config,Payroll Ops,2026-08-09,In Progress
+T0052,C006,Salary Structure Mapping,Payroll Ops,2026-08-12,Pending
+T0053,C006,Pre-run Reconciliation,Payroll Ops,2026-08-17,Pending
+T0054,C006,Customer Approval Sign-off,Customer,2026-08-21,Pending
+T0055,C007,Company Info & KYC,Customer,2026-07-13,Completed
+T0056,C007,Document Collection,Customer,2026-07-16,Completed
+T0057,C007,Employee Data Upload,Customer,2026-07-20,Completed
+T0058,C007,Bank Details Verification,Ops,2026-07-24,Completed
+T0059,C007,PAN / UAN Verification,Ops,2026-07-26,Completed
+T0060,C007,Attendance & Leave Config,Payroll Ops,2026-07-30,Completed
+T0061,C007,Salary Structure Mapping,Payroll Ops,2026-08-02,Completed
+T0062,C007,Pre-run Reconciliation,Payroll Ops,2026-08-07,Completed
+T0063,C007,Customer Approval Sign-off,Customer,2026-08-11,Completed
+T0064,C008,Company Info & KYC,Customer,2026-09-06,Completed
+T0065,C008,Document Collection,Customer,2026-09-09,Completed
+T0066,C008,Employee Data Upload,Customer,2026-09-13,Pending
+T0067,C008,Bank Details Verification,Ops,2026-09-17,Pending
+T0068,C008,PAN / UAN Verification,Ops,2026-09-19,Pending
+T0069,C008,Attendance & Leave Config,Payroll Ops,2026-09-23,Pending
+T0070,C008,Salary Structure Mapping,Payroll Ops,2026-09-26,Pending
+T0071,C008,Pre-run Reconciliation,Payroll Ops,2026-10-01,Pending
+T0072,C008,Customer Approval Sign-off,Customer,2026-10-05,Pending
+T0073,C009,Company Info & KYC,Customer,2026-08-05,Completed
+T0074,C009,Document Collection,Customer,2026-08-08,Completed
+T0075,C009,Employee Data Upload,Customer,2026-08-12,Completed
+T0076,C009,Bank Details Verification,Ops,2026-08-16,Completed
+T0077,C009,PAN / UAN Verification,Ops,2026-08-18,Completed
+T0078,C009,Attendance & Leave Config,Payroll Ops,2026-08-22,In Progress
+T0079,C009,Salary Structure Mapping,Payroll Ops,2026-08-25,Pending
+T0080,C009,Pre-run Reconciliation,Payroll Ops,2026-08-30,Pending
+T0081,C009,Customer Approval Sign-off,Customer,2026-09-03,Pending
+T0082,C010,Company Info & KYC,Customer,2026-07-23,Completed
+T0083,C010,Document Collection,Customer,2026-07-26,Completed
+T0084,C010,Employee Data Upload,Customer,2026-07-30,Completed
+T0085,C010,Bank Details Verification,Ops,2026-08-03,Completed
+T0086,C010,PAN / UAN Verification,Ops,2026-08-05,Completed
+T0087,C010,Attendance & Leave Config,Payroll Ops,2026-08-09,Completed
+T0088,C010,Salary Structure Mapping,Payroll Ops,2026-08-12,Completed
+T0089,C010,Pre-run Reconciliation,Payroll Ops,2026-08-17,Completed
+T0090,C010,Customer Approval Sign-off,Customer,2026-08-21,Completed
+T0091,C011,Company Info & KYC,Customer,2026-08-26,Completed
+T0092,C011,Document Collection,Customer,2026-08-29,Completed
+T0093,C011,Employee Data Upload,Customer,2026-09-02,Pending
+T0094,C011,Bank Details Verification,Ops,2026-09-06,Pending
+T0095,C011,PAN / UAN Verification,Ops,2026-09-08,Pending
+T0096,C011,Attendance & Leave Config,Payroll Ops,2026-09-12,Pending
+T0097,C011,Salary Structure Mapping,Payroll Ops,2026-09-15,Pending
+T0098,C011,Pre-run Reconciliation,Payroll Ops,2026-09-20,Pending
+T0099,C011,Customer Approval Sign-off,Customer,2026-09-24,Pending
+T0100,C012,Company Info & KYC,Customer,2026-07-22,Completed
+T0101,C012,Document Collection,Customer,2026-07-25,Completed
+T0102,C012,Employee Data Upload,Customer,2026-07-29,Completed
+T0103,C012,Bank Details Verification,Ops,2026-08-02,Completed
+T0104,C012,PAN / UAN Verification,Ops,2026-08-04,Completed
+T0105,C012,Attendance & Leave Config,Payroll Ops,2026-08-08,Completed
+T0106,C012,Salary Structure Mapping,Payroll Ops,2026-08-11,Completed
+T0107,C012,Pre-run Reconciliation,Payroll Ops,2026-08-16,Completed
+T0108,C012,Customer Approval Sign-off,Customer,2026-08-20,Completed
+T0109,C013,Company Info & KYC,Customer,2026-08-26,Completed
+T0110,C013,Document Collection,Customer,2026-08-29,Completed
+T0111,C013,Employee Data Upload,Customer,2026-09-02,Completed
+T0112,C013,Bank Details Verification,Ops,2026-09-06,Completed
+T0113,C013,PAN / UAN Verification,Ops,2026-09-08,Completed
+T0114,C013,Attendance & Leave Config,Payroll Ops,2026-09-12,Completed
+T0115,C013,Salary Structure Mapping,Payroll Ops,2026-09-15,Completed
+T0116,C013,Pre-run Reconciliation,Payroll Ops,2026-09-20,Completed
+T0117,C013,Customer Approval Sign-off,Customer,2026-09-24,In Progress
+T0118,C014,Company Info & KYC,Customer,2026-08-04,Completed
+T0119,C014,Document Collection,Customer,2026-08-07,Completed
+T0120,C014,Employee Data Upload,Customer,2026-08-11,Completed
+T0121,C014,Bank Details Verification,Ops,2026-08-15,Completed
+T0122,C014,PAN / UAN Verification,Ops,2026-08-17,Completed
+T0123,C014,Attendance & Leave Config,Payroll Ops,2026-08-21,Completed
+T0124,C014,Salary Structure Mapping,Payroll Ops,2026-08-24,Completed
+T0125,C014,Pre-run Reconciliation,Payroll Ops,2026-08-29,In Progress
+T0126,C014,Customer Approval Sign-off,Customer,2026-09-02,Pending
+T0127,C015,Company Info & KYC,Customer,2026-08-19,Completed
+T0128,C015,Document Collection,Customer,2026-08-22,Completed
+T0129,C015,Employee Data Upload,Customer,2026-08-26,Completed
+T0130,C015,Bank Details Verification,Ops,2026-08-30,Pending
+T0131,C015,PAN / UAN Verification,Ops,2026-09-01,Pending
+T0132,C015,Attendance & Leave Config,Payroll Ops,2026-09-05,Pending
+T0133,C015,Salary Structure Mapping,Payroll Ops,2026-09-08,Pending
+T0134,C015,Pre-run Reconciliation,Payroll Ops,2026-09-13,Pending
+T0135,C015,Customer Approval Sign-off,Customer,2026-09-17,Pending
+T0136,C016,Company Info & KYC,Customer,2026-07-19,Completed
+T0137,C016,Document Collection,Customer,2026-07-22,Completed
+T0138,C016,Employee Data Upload,Customer,2026-07-26,Completed
+T0139,C016,Bank Details Verification,Ops,2026-07-30,In Progress
+T0140,C016,PAN / UAN Verification,Ops,2026-08-01,Pending
+T0141,C016,Attendance & Leave Config,Payroll Ops,2026-08-05,Pending
+T0142,C016,Salary Structure Mapping,Payroll Ops,2026-08-08,Pending
+T0143,C016,Pre-run Reconciliation,Payroll Ops,2026-08-13,Pending
+T0144,C016,Customer Approval Sign-off,Customer,2026-08-17,Pending
+T0145,C017,Company Info & KYC,Customer,2026-08-09,Completed
+T0146,C017,Document Collection,Customer,2026-08-12,Completed
+T0147,C017,Employee Data Upload,Customer,2026-08-16,Completed
+T0148,C017,Bank Details Verification,Ops,2026-08-20,Completed
+T0149,C017,PAN / UAN Verification,Ops,2026-08-22,Completed
+T0150,C017,Attendance & Leave Config,Payroll Ops,2026-08-26,Completed
+T0151,C017,Salary Structure Mapping,Payroll Ops,2026-08-29,Completed
+T0152,C017,Pre-run Reconciliation,Payroll Ops,2026-09-03,Completed
+T0153,C017,Customer Approval Sign-off,Customer,2026-09-07,Pending
+T0154,C018,Company Info & KYC,Customer,2026-08-20,Completed
+T0155,C018,Document Collection,Customer,2026-08-23,Pending
+T0156,C018,Employee Data Upload,Customer,2026-08-27,Pending
+T0157,C018,Bank Details Verification,Ops,2026-08-31,Pending
+T0158,C018,PAN / UAN Verification,Ops,2026-09-02,Pending
+T0159,C018,Attendance & Leave Config,Payroll Ops,2026-09-06,Pending
+T0160,C018,Salary Structure Mapping,Payroll Ops,2026-09-09,Pending
+T0161,C018,Pre-run Reconciliation,Payroll Ops,2026-09-14,Pending
+T0162,C018,Customer Approval Sign-off,Customer,2026-09-18,Pending
+T0163,C019,Company Info & KYC,Customer,2026-07-12,Completed
+T0164,C019,Document Collection,Customer,2026-07-15,Completed
+T0165,C019,Employee Data Upload,Customer,2026-07-19,Completed
+T0166,C019,Bank Details Verification,Ops,2026-07-23,Completed
+T0167,C019,PAN / UAN Verification,Ops,2026-07-25,Completed
+T0168,C019,Attendance & Leave Config,Payroll Ops,2026-07-29,Completed
+T0169,C019,Salary Structure Mapping,Payroll Ops,2026-08-01,Completed
+T0170,C019,Pre-run Reconciliation,Payroll Ops,2026-08-06,Completed
+T0171,C019,Customer Approval Sign-off,Customer,2026-08-10,In Progress
+T0172,C020,Company Info & KYC,Customer,2026-07-28,Completed
+T0173,C020,Document Collection,Customer,2026-07-31,Completed
+T0174,C020,Employee Data Upload,Customer,2026-08-04,Completed
+T0175,C020,Bank Details Verification,Ops,2026-08-08,Completed
+T0176,C020,PAN / UAN Verification,Ops,2026-08-10,Completed
+T0177,C020,Attendance & Leave Config,Payroll Ops,2026-08-14,In Progress
+T0178,C020,Salary Structure Mapping,Payroll Ops,2026-08-17,Blocked
+T0179,C020,Pre-run Reconciliation,Payroll Ops,2026-08-22,Pending
+T0180,C020,Customer Approval Sign-off,Customer,2026-08-26,Pending
+T0181,C021,Company Info & KYC,Customer,2026-08-18,Completed
+T0182,C021,Document Collection,Customer,2026-08-21,Completed
+T0183,C021,Employee Data Upload,Customer,2026-08-25,Completed
+T0184,C021,Bank Details Verification,Ops,2026-08-29,Completed
+T0185,C021,PAN / UAN Verification,Ops,2026-08-31,Completed
+T0186,C021,Attendance & Leave Config,Payroll Ops,2026-09-04,Completed
+T0187,C021,Salary Structure Mapping,Payroll Ops,2026-09-07,Completed
+T0188,C021,Pre-run Reconciliation,Payroll Ops,2026-09-12,Completed
+T0189,C021,Customer Approval Sign-off,Customer,2026-09-16,In Progress
+T0190,C022,Company Info & KYC,Customer,2026-08-25,Completed
+T0191,C022,Document Collection,Customer,2026-08-28,Completed
+T0192,C022,Employee Data Upload,Customer,2026-09-01,Completed
+T0193,C022,Bank Details Verification,Ops,2026-09-05,Completed
+T0194,C022,PAN / UAN Verification,Ops,2026-09-07,Completed
+T0195,C022,Attendance & Leave Config,Payroll Ops,2026-09-11,In Progress
+T0196,C022,Salary Structure Mapping,Payroll Ops,2026-09-14,In Progress
+T0197,C022,Pre-run Reconciliation,Payroll Ops,2026-09-19,Pending
+T0198,C022,Customer Approval Sign-off,Customer,2026-09-23,Pending
+T0199,C023,Company Info & KYC,Customer,2026-09-02,Completed
+T0200,C023,Document Collection,Customer,2026-09-05,Completed
+T0201,C023,Employee Data Upload,Customer,2026-09-09,Completed
+T0202,C023,Bank Details Verification,Ops,2026-09-13,Pending
+T0203,C023,PAN / UAN Verification,Ops,2026-09-15,Pending
+T0204,C023,Attendance & Leave Config,Payroll Ops,2026-09-19,Pending
+T0205,C023,Salary Structure Mapping,Payroll Ops,2026-09-22,Pending
+T0206,C023,Pre-run Reconciliation,Payroll Ops,2026-09-27,Pending
+T0207,C023,Customer Approval Sign-off,Customer,2026-10-01,Pending
+T0208,C024,Company Info & KYC,Customer,2026-08-11,Completed
+T0209,C024,Document Collection,Customer,2026-08-14,Completed
+T0210,C024,Employee Data Upload,Customer,2026-08-18,Completed
+T0211,C024,Bank Details Verification,Ops,2026-08-22,Completed
+T0212,C024,PAN / UAN Verification,Ops,2026-08-24,Completed
+T0213,C024,Attendance & Leave Config,Payroll Ops,2026-08-28,Completed
+T0214,C024,Salary Structure Mapping,Payroll Ops,2026-08-31,Completed
+T0215,C024,Pre-run Reconciliation,Payroll Ops,2026-09-05,Completed
+T0216,C024,Customer Approval Sign-off,Customer,2026-09-09,Completed
+T0217,C025,Company Info & KYC,Customer,2026-08-21,Completed
+T0218,C025,Document Collection,Customer,2026-08-24,Completed
+T0219,C025,Employee Data Upload,Customer,2026-08-28,Completed
+T0220,C025,Bank Details Verification,Ops,2026-09-01,Completed
+T0221,C025,PAN / UAN Verification,Ops,2026-09-03,Completed
+T0222,C025,Attendance & Leave Config,Payroll Ops,2026-09-07,Completed
+T0223,C025,Salary Structure Mapping,Payroll Ops,2026-09-10,Completed
+T0224,C025,Pre-run Reconciliation,Payroll Ops,2026-09-15,Pending
+T0225,C025,Customer Approval Sign-off,Customer,2026-09-19,Pending
+T0226,C026,Company Info & KYC,Customer,2026-07-21,Completed
+T0227,C026,Document Collection,Customer,2026-07-24,Completed
+T0228,C026,Employee Data Upload,Customer,2026-07-28,Completed
+T0229,C026,Bank Details Verification,Ops,2026-08-01,Completed
+T0230,C026,PAN / UAN Verification,Ops,2026-08-03,Completed
+T0231,C026,Attendance & Leave Config,Payroll Ops,2026-08-07,In Progress
+T0232,C026,Salary Structure Mapping,Payroll Ops,2026-08-10,In Progress
+T0233,C026,Pre-run Reconciliation,Payroll Ops,2026-08-15,Pending
+T0234,C026,Customer Approval Sign-off,Customer,2026-08-19,Pending
+T0235,C027,Company Info & KYC,Customer,2026-08-30,Completed
+T0236,C027,Document Collection,Customer,2026-09-02,Completed
+T0237,C027,Employee Data Upload,Customer,2026-09-06,Completed
+T0238,C027,Bank Details Verification,Ops,2026-09-10,Pending
+T0239,C027,PAN / UAN Verification,Ops,2026-09-12,Pending
+T0240,C027,Attendance & Leave Config,Payroll Ops,2026-09-16,Pending
+T0241,C027,Salary Structure Mapping,Payroll Ops,2026-09-19,Pending
+T0242,C027,Pre-run Reconciliation,Payroll Ops,2026-09-24,Pending
+T0243,C027,Customer Approval Sign-off,Customer,2026-09-28,Pending
+T0244,C028,Company Info & KYC,Customer,2026-08-02,In Progress
+T0245,C028,Document Collection,Customer,2026-08-05,Pending
+T0246,C028,Employee Data Upload,Customer,2026-08-09,Pending
+T0247,C028,Bank Details Verification,Ops,2026-08-13,Pending
+T0248,C028,PAN / UAN Verification,Ops,2026-08-15,Pending
+T0249,C028,Attendance & Leave Config,Payroll Ops,2026-08-19,Pending
+T0250,C028,Salary Structure Mapping,Payroll Ops,2026-08-22,Pending
+T0251,C028,Pre-run Reconciliation,Payroll Ops,2026-08-27,Pending
+T0252,C028,Customer Approval Sign-off,Customer,2026-08-31,Pending
+T0253,C029,Company Info & KYC,Customer,2026-09-06,Completed
+T0254,C029,Document Collection,Customer,2026-09-09,Completed
+T0255,C029,Employee Data Upload,Customer,2026-09-13,Completed
+T0256,C029,Bank Details Verification,Ops,2026-09-17,Completed
+T0257,C029,PAN / UAN Verification,Ops,2026-09-19,Completed
+T0258,C029,Attendance & Leave Config,Payroll Ops,2026-09-23,Pending
+T0259,C029,Salary Structure Mapping,Payroll Ops,2026-09-26,Pending
+T0260,C029,Pre-run Reconciliation,Payroll Ops,2026-10-01,Pending
+T0261,C029,Customer Approval Sign-off,Customer,2026-10-05,Pending
+T0262,C030,Company Info & KYC,Customer,2026-07-20,Completed
+T0263,C030,Document Collection,Customer,2026-07-23,Completed
+T0264,C030,Employee Data Upload,Customer,2026-07-27,Completed
+T0265,C030,Bank Details Verification,Ops,2026-07-31,Pending
+T0266,C030,PAN / UAN Verification,Ops,2026-08-02,Pending
+T0267,C030,Attendance & Leave Config,Payroll Ops,2026-08-06,Pending
+T0268,C030,Salary Structure Mapping,Payroll Ops,2026-08-09,Pending
+T0269,C030,Pre-run Reconciliation,Payroll Ops,2026-08-14,Pending
+T0270,C030,Customer Approval Sign-off,Customer,2026-08-18,Pending
+T0271,C031,Company Info & KYC,Customer,2026-09-10,Completed
+T0272,C031,Document Collection,Customer,2026-09-13,Completed
+T0273,C031,Employee Data Upload,Customer,2026-09-17,Completed
+T0274,C031,Bank Details Verification,Ops,2026-09-21,Pending
+T0275,C031,PAN / UAN Verification,Ops,2026-09-23,Pending
+T0276,C031,Attendance & Leave Config,Payroll Ops,2026-09-27,Pending
+T0277,C031,Salary Structure Mapping,Payroll Ops,2026-09-30,Pending
+T0278,C031,Pre-run Reconciliation,Payroll Ops,2026-10-05,Pending
+T0279,C031,Customer Approval Sign-off,Customer,2026-10-09,Pending
+T0280,C032,Company Info & KYC,Customer,2026-09-03,Completed
+T0281,C032,Document Collection,Customer,2026-09-06,Completed
+T0282,C032,Employee Data Upload,Customer,2026-09-10,Completed
+T0283,C032,Bank Details Verification,Ops,2026-09-14,Completed
+T0284,C032,PAN / UAN Verification,Ops,2026-09-16,Completed
+T0285,C032,Attendance & Leave Config,Payroll Ops,2026-09-20,Completed
+T0286,C032,Salary Structure Mapping,Payroll Ops,2026-09-23,Completed
+T0287,C032,Pre-run Reconciliation,Payroll Ops,2026-09-28,Completed
+T0288,C032,Customer Approval Sign-off,Customer,2026-10-02,Pending
+T0289,C033,Company Info & KYC,Customer,2026-08-02,Completed
+T0290,C033,Document Collection,Customer,2026-08-05,Completed
+T0291,C033,Employee Data Upload,Customer,2026-08-09,Blocked
+T0292,C033,Bank Details Verification,Ops,2026-08-13,Blocked
+T0293,C033,PAN / UAN Verification,Ops,2026-08-15,Pending
+T0294,C033,Attendance & Leave Config,Payroll Ops,2026-08-19,Pending
+T0295,C033,Salary Structure Mapping,Payroll Ops,2026-08-22,Pending
+T0296,C033,Pre-run Reconciliation,Payroll Ops,2026-08-27,Pending
+T0297,C033,Customer Approval Sign-off,Customer,2026-08-31,Pending
+T0298,C034,Company Info & KYC,Customer,2026-08-21,Completed
+T0299,C034,Document Collection,Customer,2026-08-24,Completed
+T0300,C034,Employee Data Upload,Customer,2026-08-28,Completed
+T0301,C034,Bank Details Verification,Ops,2026-09-01,Completed
+T0302,C034,PAN / UAN Verification,Ops,2026-09-03,Completed
+T0303,C034,Attendance & Leave Config,Payroll Ops,2026-09-07,Completed
+T0304,C034,Salary Structure Mapping,Payroll Ops,2026-09-10,Completed
+T0305,C034,Pre-run Reconciliation,Payroll Ops,2026-09-15,Completed
+T0306,C034,Customer Approval Sign-off,Customer,2026-09-19,Completed
+T0307,C035,Company Info & KYC,Customer,2026-07-31,Completed
+T0308,C035,Document Collection,Customer,2026-08-03,Completed
+T0309,C035,Employee Data Upload,Customer,2026-08-07,Completed
+T0310,C035,Bank Details Verification,Ops,2026-08-11,Completed
+T0311,C035,PAN / UAN Verification,Ops,2026-08-13,Completed
+T0312,C035,Attendance & Leave Config,Payroll Ops,2026-08-17,Completed
+T0313,C035,Salary Structure Mapping,Payroll Ops,2026-08-20,Completed
+T0314,C035,Pre-run Reconciliation,Payroll Ops,2026-08-25,In Progress
+T0315,C035,Customer Approval Sign-off,Customer,2026-08-29,Pending
+T0316,C036,Company Info & KYC,Customer,2026-08-07,Completed
+T0317,C036,Document Collection,Customer,2026-08-10,Completed
+T0318,C036,Employee Data Upload,Customer,2026-08-14,Completed
+T0319,C036,Bank Details Verification,Ops,2026-08-18,Completed
+T0320,C036,PAN / UAN Verification,Ops,2026-08-20,Completed
+T0321,C036,Attendance & Leave Config,Payroll Ops,2026-08-24,Pending
+T0322,C036,Salary Structure Mapping,Payroll Ops,2026-08-27,Completed
+T0323,C036,Pre-run Reconciliation,Payroll Ops,2026-09-01,Pending
+T0324,C036,Customer Approval Sign-off,Customer,2026-09-05,Pending
+T0325,C037,Company Info & KYC,Customer,2026-07-18,Completed
+T0326,C037,Document Collection,Customer,2026-07-21,Completed
+T0327,C037,Employee Data Upload,Customer,2026-07-25,Completed
+T0328,C037,Bank Details Verification,Ops,2026-07-29,Completed
+T0329,C037,PAN / UAN Verification,Ops,2026-07-31,Completed
+T0330,C037,Attendance & Leave Config,Payroll Ops,2026-08-04,Completed
+T0331,C037,Salary Structure Mapping,Payroll Ops,2026-08-07,Completed
+T0332,C037,Pre-run Reconciliation,Payroll Ops,2026-08-12,Completed
+T0333,C037,Customer Approval Sign-off,Customer,2026-08-16,Completed
+T0334,C038,Company Info & KYC,Customer,2026-09-09,Completed
+T0335,C038,Document Collection,Customer,2026-09-12,Completed
+T0336,C038,Employee Data Upload,Customer,2026-09-16,Completed
+T0337,C038,Bank Details Verification,Ops,2026-09-20,Completed
+T0338,C038,PAN / UAN Verification,Ops,2026-09-22,Completed
+T0339,C038,Attendance & Leave Config,Payroll Ops,2026-09-26,Completed
+T0340,C038,Salary Structure Mapping,Payroll Ops,2026-09-29,Completed
+T0341,C038,Pre-run Reconciliation,Payroll Ops,2026-10-04,Completed
+T0342,C038,Customer Approval Sign-off,Customer,2026-10-08,Pending
+T0343,C039,Company Info & KYC,Customer,2026-08-17,Completed
+T0344,C039,Document Collection,Customer,2026-08-20,Completed
+T0345,C039,Employee Data Upload,Customer,2026-08-24,Completed
+T0346,C039,Bank Details Verification,Ops,2026-08-28,Completed
+T0347,C039,PAN / UAN Verification,Ops,2026-08-30,Completed
+T0348,C039,Attendance & Leave Config,Payroll Ops,2026-09-03,Completed
+T0349,C039,Salary Structure Mapping,Payroll Ops,2026-09-06,Completed
+T0350,C039,Pre-run Reconciliation,Payroll Ops,2026-09-11,Completed
+T0351,C039,Customer Approval Sign-off,Customer,2026-09-15,Completed
+T0352,C040,Company Info & KYC,Customer,2026-09-06,Completed
+T0353,C040,Document Collection,Customer,2026-09-09,Completed
+T0354,C040,Employee Data Upload,Customer,2026-09-13,In Progress
+T0355,C040,Bank Details Verification,Ops,2026-09-17,Pending
+T0356,C040,PAN / UAN Verification,Ops,2026-09-19,Pending
+T0357,C040,Attendance & Leave Config,Payroll Ops,2026-09-23,Pending
+T0358,C040,Salary Structure Mapping,Payroll Ops,2026-09-26,Pending
+T0359,C040,Pre-run Reconciliation,Payroll Ops,2026-10-01,Pending
+T0360,C040,Customer Approval Sign-off,Customer,2026-10-05,Pending
+T0361,C041,Company Info & KYC,Customer,2026-09-08,Completed
+T0362,C041,Document Collection,Customer,2026-09-11,Completed
+T0363,C041,Employee Data Upload,Customer,2026-09-15,Completed
+T0364,C041,Bank Details Verification,Ops,2026-09-19,Completed
+T0365,C041,PAN / UAN Verification,Ops,2026-09-21,Pending
+T0366,C041,Attendance & Leave Config,Payroll Ops,2026-09-25,Pending
+T0367,C041,Salary Structure Mapping,Payroll Ops,2026-09-28,Pending
+T0368,C041,Pre-run Reconciliation,Payroll Ops,2026-10-03,Pending
+T0369,C041,Customer Approval Sign-off,Customer,2026-10-07,Pending
+T0370,C042,Company Info & KYC,Customer,2026-08-13,In Progress
+T0371,C042,Document Collection,Customer,2026-08-16,Pending
+T0372,C042,Employee Data Upload,Customer,2026-08-20,Pending
+T0373,C042,Bank Details Verification,Ops,2026-08-24,Pending
+T0374,C042,PAN / UAN Verification,Ops,2026-08-26,Pending
+T0375,C042,Attendance & Leave Config,Payroll Ops,2026-08-30,Pending
+T0376,C042,Salary Structure Mapping,Payroll Ops,2026-09-02,Pending
+T0377,C042,Pre-run Reconciliation,Payroll Ops,2026-09-07,Pending
+T0378,C042,Customer Approval Sign-off,Customer,2026-09-11,Pending
+T0379,C043,Company Info & KYC,Customer,2026-07-09,Completed
+T0380,C043,Document Collection,Customer,2026-07-12,Completed
+T0381,C043,Employee Data Upload,Customer,2026-07-16,Completed
+T0382,C043,Bank Details Verification,Ops,2026-07-20,Completed
+T0383,C043,PAN / UAN Verification,Ops,2026-07-22,Completed
+T0384,C043,Attendance & Leave Config,Payroll Ops,2026-07-26,Completed
+T0385,C043,Salary Structure Mapping,Payroll Ops,2026-07-29,Completed
+T0386,C043,Pre-run Reconciliation,Payroll Ops,2026-08-03,Completed
+T0387,C043,Customer Approval Sign-off,Customer,2026-08-07,Pending
+T0388,C044,Company Info & KYC,Customer,2026-07-16,Completed
+T0389,C044,Document Collection,Customer,2026-07-19,Completed
+T0390,C044,Employee Data Upload,Customer,2026-07-23,Completed
+T0391,C044,Bank Details Verification,Ops,2026-07-27,Completed
+T0392,C044,PAN / UAN Verification,Ops,2026-07-29,Completed
+T0393,C044,Attendance & Leave Config,Payroll Ops,2026-08-02,Completed
+T0394,C044,Salary Structure Mapping,Payroll Ops,2026-08-05,Completed
+T0395,C044,Pre-run Reconciliation,Payroll Ops,2026-08-10,Completed
+T0396,C044,Customer Approval Sign-off,Customer,2026-08-14,Completed
+T0397,C045,Company Info & KYC,Customer,2026-08-05,Completed
+T0398,C045,Document Collection,Customer,2026-08-08,Completed
+T0399,C045,Employee Data Upload,Customer,2026-08-12,Completed
+T0400,C045,Bank Details Verification,Ops,2026-08-16,Completed
+T0401,C045,PAN / UAN Verification,Ops,2026-08-18,Completed
+T0402,C045,Attendance & Leave Config,Payroll Ops,2026-08-22,Pending
+T0403,C045,Salary Structure Mapping,Payroll Ops,2026-08-25,Pending
+T0404,C045,Pre-run Reconciliation,Payroll Ops,2026-08-30,Pending
+T0405,C045,Customer Approval Sign-off,Customer,2026-09-03,Pending
+T0406,C046,Company Info & KYC,Customer,2026-08-21,Completed
+T0407,C046,Document Collection,Customer,2026-08-24,Completed
+T0408,C046,Employee Data Upload,Customer,2026-08-28,Completed
+T0409,C046,Bank Details Verification,Ops,2026-09-01,In Progress
+T0410,C046,PAN / UAN Verification,Ops,2026-09-03,Completed
+T0411,C046,Attendance & Leave Config,Payroll Ops,2026-09-07,Pending
+T0412,C046,Salary Structure Mapping,Payroll Ops,2026-09-10,Pending
+T0413,C046,Pre-run Reconciliation,Payroll Ops,2026-09-15,Pending
+T0414,C046,Customer Approval Sign-off,Customer,2026-09-19,Pending
+T0415,C047,Company Info & KYC,Customer,2026-09-01,Completed
+T0416,C047,Document Collection,Customer,2026-09-04,Completed
+T0417,C047,Employee Data Upload,Customer,2026-09-08,Pending
+T0418,C047,Bank Details Verification,Ops,2026-09-12,Pending
+T0419,C047,PAN / UAN Verification,Ops,2026-09-14,Pending
+T0420,C047,Attendance & Leave Config,Payroll Ops,2026-09-18,Pending
+T0421,C047,Salary Structure Mapping,Payroll Ops,2026-09-21,Pending
+T0422,C047,Pre-run Reconciliation,Payroll Ops,2026-09-26,Pending
+T0423,C047,Customer Approval Sign-off,Customer,2026-09-30,Pending
+T0424,C048,Company Info & KYC,Customer,2026-08-31,Completed
+T0425,C048,Document Collection,Customer,2026-09-03,Completed
+T0426,C048,Employee Data Upload,Customer,2026-09-07,Completed
+T0427,C048,Bank Details Verification,Ops,2026-09-11,Completed
+T0428,C048,PAN / UAN Verification,Ops,2026-09-13,Completed
+T0429,C048,Attendance & Leave Config,Payroll Ops,2026-09-17,Completed
+T0430,C048,Salary Structure Mapping,Payroll Ops,2026-09-20,Completed
+T0431,C048,Pre-run Reconciliation,Payroll Ops,2026-09-25,Completed
+T0432,C048,Customer Approval Sign-off,Customer,2026-09-29,Completed
+T0433,C049,Company Info & KYC,Customer,2026-07-31,Blocked
+T0434,C049,Document Collection,Customer,2026-08-03,Pending
+T0435,C049,Employee Data Upload,Customer,2026-08-07,Pending
+T0436,C049,Bank Details Verification,Ops,2026-08-11,Pending
+T0437,C049,PAN / UAN Verification,Ops,2026-08-13,Pending
+T0438,C049,Attendance & Leave Config,Payroll Ops,2026-08-17,Pending
+T0439,C049,Salary Structure Mapping,Payroll Ops,2026-08-20,Pending
+T0440,C049,Pre-run Reconciliation,Payroll Ops,2026-08-25,Pending
+T0441,C049,Customer Approval Sign-off,Customer,2026-08-29,Pending
+T0442,C050,Company Info & KYC,Customer,2026-08-11,Completed
+T0443,C050,Document Collection,Customer,2026-08-14,Completed
+T0444,C050,Employee Data Upload,Customer,2026-08-18,Completed
+T0445,C050,Bank Details Verification,Ops,2026-08-22,Completed
+T0446,C050,PAN / UAN Verification,Ops,2026-08-24,Completed
+T0447,C050,Attendance & Leave Config,Payroll Ops,2026-08-28,Completed
+T0448,C050,Salary Structure Mapping,Payroll Ops,2026-08-31,Completed
+T0449,C050,Pre-run Reconciliation,Payroll Ops,2026-09-05,In Progress
+T0450,C050,Customer Approval Sign-off,Customer,2026-09-09,Pending

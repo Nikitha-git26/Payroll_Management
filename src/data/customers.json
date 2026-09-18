@@ -1,0 +1,502 @@
+[
+  {
+    "id": "C001",
+    "companyName": "Everest Systems",
+    "industry": "EdTech",
+    "employeeCount": 20,
+    "onboardingDate": "2026-08-11",
+    "targetDate": "2026-10-14",
+    "stage": "Approval",
+    "status": "Blocked"
+  },
+  {
+    "id": "C002",
+    "companyName": "Anchor Works",
+    "industry": "Hospitality",
+    "employeeCount": 32,
+    "onboardingDate": "2026-07-24",
+    "targetDate": "2026-09-23",
+    "stage": "Documents",
+    "status": "At Risk"
+  },
+  {
+    "id": "C003",
+    "companyName": "Zenith Solutions",
+    "industry": "E-commerce",
+    "employeeCount": 38,
+    "onboardingDate": "2026-07-20",
+    "targetDate": "2026-09-13",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C004",
+    "companyName": "Bridge Industries",
+    "industry": "Logistics",
+    "employeeCount": 12,
+    "onboardingDate": "2026-09-03",
+    "targetDate": "2026-10-25",
+    "stage": "Documents",
+    "status": "On Track"
+  },
+  {
+    "id": "C005",
+    "companyName": "Nimbus Group",
+    "industry": "E-commerce",
+    "employeeCount": 32,
+    "onboardingDate": "2026-07-25",
+    "targetDate": "2026-09-07",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C006",
+    "companyName": "Wavelength Works",
+    "industry": "EdTech",
+    "employeeCount": 32,
+    "onboardingDate": "2026-07-21",
+    "targetDate": "2026-08-27",
+    "stage": "Payroll Setup",
+    "status": "Blocked"
+  },
+  {
+    "id": "C007",
+    "companyName": "Bridge Technologies",
+    "industry": "Hospitality",
+    "employeeCount": 29,
+    "onboardingDate": "2026-07-11",
+    "targetDate": "2026-09-08",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C008",
+    "companyName": "Union Solutions",
+    "industry": "Media & Entertainment",
+    "employeeCount": 17,
+    "onboardingDate": "2026-09-04",
+    "targetDate": "2026-10-22",
+    "stage": "Employee Upload",
+    "status": "On Track"
+  },
+  {
+    "id": "C009",
+    "companyName": "Ironclad Industries",
+    "industry": "Healthcare",
+    "employeeCount": 12,
+    "onboardingDate": "2026-08-03",
+    "targetDate": "2026-09-28",
+    "stage": "Payroll Setup",
+    "status": "On Track"
+  },
+  {
+    "id": "C010",
+    "companyName": "Fjord Group",
+    "industry": "IT Services",
+    "employeeCount": 15,
+    "onboardingDate": "2026-07-21",
+    "targetDate": "2026-09-22",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C011",
+    "companyName": "Quill Industries",
+    "industry": "Retail",
+    "employeeCount": 14,
+    "onboardingDate": "2026-08-24",
+    "targetDate": "2026-10-20",
+    "stage": "Documents",
+    "status": "On Track"
+  },
+  {
+    "id": "C012",
+    "companyName": "Onyx Services",
+    "industry": "Hospitality",
+    "employeeCount": 33,
+    "onboardingDate": "2026-07-20",
+    "targetDate": "2026-09-14",
+    "stage": "Approval",
+    "status": "At Risk"
+  },
+  {
+    "id": "C013",
+    "companyName": "Zenith Labs",
+    "industry": "IT Services",
+    "employeeCount": 9,
+    "onboardingDate": "2026-08-24",
+    "targetDate": "2026-09-27",
+    "stage": "Approval",
+    "status": "On Track"
+  },
+  {
+    "id": "C014",
+    "companyName": "Quill Labs",
+    "industry": "IT Services",
+    "employeeCount": 32,
+    "onboardingDate": "2026-08-02",
+    "targetDate": "2026-09-26",
+    "stage": "Customer Review",
+    "status": "On Track"
+  },
+  {
+    "id": "C015",
+    "companyName": "Novo Solutions",
+    "industry": "EdTech",
+    "employeeCount": 5,
+    "onboardingDate": "2026-08-17",
+    "targetDate": "2026-10-03",
+    "stage": "Employee Upload",
+    "status": "On Track"
+  },
+  {
+    "id": "C016",
+    "companyName": "Zephyr Systems",
+    "industry": "IT Services",
+    "employeeCount": 12,
+    "onboardingDate": "2026-07-17",
+    "targetDate": "2026-08-18",
+    "stage": "Validation",
+    "status": "At Risk"
+  },
+  {
+    "id": "C017",
+    "companyName": "Vertex Group",
+    "industry": "E-commerce",
+    "employeeCount": 24,
+    "onboardingDate": "2026-08-07",
+    "targetDate": "2026-10-07",
+    "stage": "Approval",
+    "status": "On Track"
+  },
+  {
+    "id": "C018",
+    "companyName": "Union Systems",
+    "industry": "Healthcare",
+    "employeeCount": 10,
+    "onboardingDate": "2026-08-18",
+    "targetDate": "2026-09-17",
+    "stage": "Documents",
+    "status": "At Risk"
+  },
+  {
+    "id": "C019",
+    "companyName": "Juniper Technologies",
+    "industry": "Media & Entertainment",
+    "employeeCount": 22,
+    "onboardingDate": "2026-07-10",
+    "targetDate": "2026-08-15",
+    "stage": "Approval",
+    "status": "At Risk"
+  },
+  {
+    "id": "C020",
+    "companyName": "Indus Industries",
+    "industry": "Manufacturing",
+    "employeeCount": 15,
+    "onboardingDate": "2026-07-26",
+    "targetDate": "2026-09-19",
+    "stage": "Payroll Setup",
+    "status": "Blocked"
+  },
+  {
+    "id": "C021",
+    "companyName": "Redwood Services",
+    "industry": "Healthcare",
+    "employeeCount": 39,
+    "onboardingDate": "2026-08-16",
+    "targetDate": "2026-10-21",
+    "stage": "Approval",
+    "status": "On Track"
+  },
+  {
+    "id": "C022",
+    "companyName": "Monarch Works",
+    "industry": "Manufacturing",
+    "employeeCount": 32,
+    "onboardingDate": "2026-08-23",
+    "targetDate": "2026-10-20",
+    "stage": "Payroll Setup",
+    "status": "On Track"
+  },
+  {
+    "id": "C023",
+    "companyName": "Delta Services",
+    "industry": "Logistics",
+    "employeeCount": 37,
+    "onboardingDate": "2026-08-31",
+    "targetDate": "2026-10-18",
+    "stage": "Employee Upload",
+    "status": "On Track"
+  },
+  {
+    "id": "C024",
+    "companyName": "Onyx Labs",
+    "industry": "FinTech",
+    "employeeCount": 10,
+    "onboardingDate": "2026-08-09",
+    "targetDate": "2026-10-12",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C025",
+    "companyName": "Yarrow Group",
+    "industry": "EdTech",
+    "employeeCount": 19,
+    "onboardingDate": "2026-08-19",
+    "targetDate": "2026-10-13",
+    "stage": "Customer Review",
+    "status": "On Track"
+  },
+  {
+    "id": "C026",
+    "companyName": "Fjord Services",
+    "industry": "Hospitality",
+    "employeeCount": 19,
+    "onboardingDate": "2026-07-19",
+    "targetDate": "2026-08-19",
+    "stage": "Payroll Setup",
+    "status": "At Risk"
+  },
+  {
+    "id": "C027",
+    "companyName": "Harbor Technologies",
+    "industry": "EdTech",
+    "employeeCount": 7,
+    "onboardingDate": "2026-08-28",
+    "targetDate": "2026-10-20",
+    "stage": "Employee Upload",
+    "status": "On Track"
+  },
+  {
+    "id": "C028",
+    "companyName": "Zephyr Labs",
+    "industry": "Logistics",
+    "employeeCount": 16,
+    "onboardingDate": "2026-07-31",
+    "targetDate": "2026-09-22",
+    "stage": "Customer Created",
+    "status": "At Risk"
+  },
+  {
+    "id": "C029",
+    "companyName": "Union Industries",
+    "industry": "Logistics",
+    "employeeCount": 32,
+    "onboardingDate": "2026-09-04",
+    "targetDate": "2026-10-07",
+    "stage": "Payroll Setup",
+    "status": "On Track"
+  },
+  {
+    "id": "C030",
+    "companyName": "Indus Labs",
+    "industry": "FinTech",
+    "employeeCount": 21,
+    "onboardingDate": "2026-07-18",
+    "targetDate": "2026-08-27",
+    "stage": "Validation",
+    "status": "At Risk"
+  },
+  {
+    "id": "C031",
+    "companyName": "Orbit Services",
+    "industry": "Healthcare",
+    "employeeCount": 34,
+    "onboardingDate": "2026-09-08",
+    "targetDate": "2026-11-12",
+    "stage": "Employee Upload",
+    "status": "On Track"
+  },
+  {
+    "id": "C032",
+    "companyName": "Pioneer Services",
+    "industry": "EdTech",
+    "employeeCount": 28,
+    "onboardingDate": "2026-09-01",
+    "targetDate": "2026-10-12",
+    "stage": "Approval",
+    "status": "On Track"
+  },
+  {
+    "id": "C033",
+    "companyName": "Umber Systems",
+    "industry": "Healthcare",
+    "employeeCount": 7,
+    "onboardingDate": "2026-07-31",
+    "targetDate": "2026-10-05",
+    "stage": "Employee Upload",
+    "status": "Blocked"
+  },
+  {
+    "id": "C034",
+    "companyName": "Horizon Labs",
+    "industry": "FinTech",
+    "employeeCount": 17,
+    "onboardingDate": "2026-08-19",
+    "targetDate": "2026-10-21",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C035",
+    "companyName": "Willow Solutions",
+    "industry": "Manufacturing",
+    "employeeCount": 39,
+    "onboardingDate": "2026-07-29",
+    "targetDate": "2026-09-08",
+    "stage": "Customer Review",
+    "status": "At Risk"
+  },
+  {
+    "id": "C036",
+    "companyName": "Zephyr Works",
+    "industry": "E-commerce",
+    "employeeCount": 10,
+    "onboardingDate": "2026-08-05",
+    "targetDate": "2026-09-05",
+    "stage": "Payroll Setup",
+    "status": "At Risk"
+  },
+  {
+    "id": "C037",
+    "companyName": "Horizon Works",
+    "industry": "IT Services",
+    "employeeCount": 31,
+    "onboardingDate": "2026-07-16",
+    "targetDate": "2026-09-19",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C038",
+    "companyName": "Falcon Labs",
+    "industry": "Logistics",
+    "employeeCount": 15,
+    "onboardingDate": "2026-09-07",
+    "targetDate": "2026-11-06",
+    "stage": "Approval",
+    "status": "On Track"
+  },
+  {
+    "id": "C039",
+    "companyName": "Sable Services",
+    "industry": "Hospitality",
+    "employeeCount": 31,
+    "onboardingDate": "2026-08-15",
+    "targetDate": "2026-09-24",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C040",
+    "companyName": "Vantage Technologies",
+    "industry": "IT Services",
+    "employeeCount": 8,
+    "onboardingDate": "2026-09-04",
+    "targetDate": "2026-11-06",
+    "stage": "Employee Upload",
+    "status": "On Track"
+  },
+  {
+    "id": "C041",
+    "companyName": "Summit Labs",
+    "industry": "Hospitality",
+    "employeeCount": 36,
+    "onboardingDate": "2026-09-06",
+    "targetDate": "2026-10-13",
+    "stage": "Validation",
+    "status": "On Track"
+  },
+  {
+    "id": "C042",
+    "companyName": "Quartz Works",
+    "industry": "Logistics",
+    "employeeCount": 22,
+    "onboardingDate": "2026-08-11",
+    "targetDate": "2026-09-15",
+    "stage": "Customer Created",
+    "status": "At Risk"
+  },
+  {
+    "id": "C043",
+    "companyName": "Nimbus Technologies",
+    "industry": "IT Services",
+    "employeeCount": 29,
+    "onboardingDate": "2026-07-07",
+    "targetDate": "2026-08-10",
+    "stage": "Customer Review",
+    "status": "At Risk"
+  },
+  {
+    "id": "C044",
+    "companyName": "Monarch Labs",
+    "industry": "Logistics",
+    "employeeCount": 11,
+    "onboardingDate": "2026-07-14",
+    "targetDate": "2026-09-14",
+    "stage": "Approval",
+    "status": "At Risk"
+  },
+  {
+    "id": "C045",
+    "companyName": "Prism Technologies",
+    "industry": "Logistics",
+    "employeeCount": 8,
+    "onboardingDate": "2026-08-03",
+    "targetDate": "2026-10-09",
+    "stage": "Payroll Setup",
+    "status": "On Track"
+  },
+  {
+    "id": "C046",
+    "companyName": "Granite Industries",
+    "industry": "FinTech",
+    "employeeCount": 28,
+    "onboardingDate": "2026-08-19",
+    "targetDate": "2026-10-26",
+    "stage": "Validation",
+    "status": "On Track"
+  },
+  {
+    "id": "C047",
+    "companyName": "Yarrow Services",
+    "industry": "FinTech",
+    "employeeCount": 24,
+    "onboardingDate": "2026-08-30",
+    "targetDate": "2026-10-24",
+    "stage": "Documents",
+    "status": "On Track"
+  },
+  {
+    "id": "C048",
+    "companyName": "Lattice Industries",
+    "industry": "IT Services",
+    "employeeCount": 39,
+    "onboardingDate": "2026-08-29",
+    "targetDate": "2026-10-21",
+    "stage": "Completed",
+    "status": "Completed"
+  },
+  {
+    "id": "C049",
+    "companyName": "Knox Systems",
+    "industry": "Logistics",
+    "employeeCount": 21,
+    "onboardingDate": "2026-07-29",
+    "targetDate": "2026-09-28",
+    "stage": "Customer Created",
+    "status": "Blocked"
+  },
+  {
+    "id": "C050",
+    "companyName": "Orbit Systems",
+    "industry": "Manufacturing",
+    "employeeCount": 33,
+    "onboardingDate": "2026-08-09",
+    "targetDate": "2026-09-17",
+    "stage": "Customer Review",
+    "status": "At Risk"
+  }
+]
