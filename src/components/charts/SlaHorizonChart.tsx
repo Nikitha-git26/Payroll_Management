@@ -30,14 +30,16 @@ function SlaTooltip({ active, payload }: any) {
 
 export default function SlaHorizonChart({ data }: { data: SlaDatum[] }) {
   return (
-    <div className="h-72 w-full">
+    <div className="h-80 w-full pb-1">
       <ResponsiveContainer width="100%" height="100%">
-        <BarChart data={data} margin={{ top: 20, right: 8, left: 0, bottom: 4 }}>
+        <BarChart data={data} margin={{ top: 20, right: 20, left: 0, bottom: 32 }}>
           <XAxis
             dataKey="bucket"
             tick={{ fill: chartColors.textSecondary, fontSize: 12 }}
             axisLine={{ stroke: chartColors.baseline }}
             tickLine={false}
+            tickMargin={12}
+            height={40}
           />
           <YAxis hide />
           <Tooltip content={<SlaTooltip />} cursor={{ fill: chartColors.gridline, opacity: 0.4 }} />

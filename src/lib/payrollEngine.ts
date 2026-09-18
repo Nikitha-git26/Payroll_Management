@@ -1,6 +1,7 @@
 import type {
   Employee,
   ExceptionReport,
+  ExceptionSeverity,
   ReconciliationResult,
   SlaHealth,
   Task,
@@ -154,6 +155,46 @@ export function runExceptionDetection(employees: Employee[]): ExceptionReport[] 
   }
 
   return reports;
+}
+
+export interface ExceptionSummary {
+  exceptionType: string;
+  severity: ExceptionSeverity;
+  employeeCount: number;
+  employeeIds: string[];
+  recommendedAction: string;
+}
+
+const SEVERITY_RANK: Record<ExceptionSeverity, number> = { Critical: 0, High: 1, Medium: 2 };
+
+/**
+ * summarizeExceptions
+ * Groups a flat exception list by type (e.g. "Missing PAN: 2 employees")
+ * for account-level review, ranked most-severe first. Each employee is
+ * counted once per exception type even if flagged by multiple rows.
+ */
+export function summarizeExceptions(exceptions: ExceptionReport[]): ExceptionSummary[] {
+  const groups = new Map<string, ExceptionSummary>();
+
+  for (const exc of exceptions) {
+    const existing = groups.get(exc.exceptionType);
+    if (existing) {
+      if (!existing.employeeIds.includes(exc.employeeId)) {
+        existing.employeeIds.push(exc.employeeId);
+        existing.employeeCount = existing.employeeIds.length;
+      }
+    } else {
+      groups.set(exc.exceptionType, {
+        exceptionType: exc.exceptionType,
+        severity: exc.severity,
+        employeeCount: 1,
+        employeeIds: [exc.employeeId],
+        recommendedAction: exc.recommendedAction,
+      });
+    }
+  }
+
+  return Array.from(groups.values()).sort((a, b) => SEVERITY_RANK[a.severity] - SEVERITY_RANK[b.severity]);
 }
 
 /**

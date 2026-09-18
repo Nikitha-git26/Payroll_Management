@@ -79,17 +79,17 @@ export default function Dashboard({ accounts, kpis, funnelData, slaHorizonData, 
         <KpiRibbon kpis={kpis} />
 
         <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
-          <div className="card p-4">
+          <div className="card p-4 pb-6">
             <h3 className="mb-1 text-sm font-semibold text-ink-900">Onboarding Funnel</h3>
             <p className="mb-3 text-xs text-ink-500">Accounts at or past each pipeline stage</p>
             <OnboardingFunnelChart data={funnelData} />
           </div>
-          <div className="card p-4">
+          <div className="card p-4 pb-6">
             <h3 className="mb-1 text-sm font-semibold text-ink-900">SLA Horizon</h3>
             <p className="mb-3 text-xs text-ink-500">Active accounts grouped by closure deadline</p>
             <SlaHorizonChart data={slaHorizonData} />
           </div>
-          <div className="card p-4">
+          <div className="card p-4 pb-6">
             <h3 className="mb-1 text-sm font-semibold text-ink-900">Payroll Variance</h3>
             <p className="mb-3 text-xs text-ink-500">Processed vs. expected net, flagged accounts</p>
             <VarianceBarChart data={varianceData} />

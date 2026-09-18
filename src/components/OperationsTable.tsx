@@ -81,7 +81,11 @@ export default function OperationsTable({ accounts, onInspect }: OperationsTable
           </thead>
           <tbody>
             {filtered.map((a) => (
-              <tr key={a.id} className="border-b border-ink-50 last:border-0 hover:bg-ink-50/60">
+              <tr
+                key={a.id}
+                onClick={() => onInspect(a.id)}
+                className="cursor-pointer border-b border-ink-50 last:border-0 hover:bg-ink-50/60"
+              >
                 <td className="px-4 py-3">
                   <div className="font-medium text-ink-900">{a.companyName}</div>
                   <div className="text-xs text-ink-400">{a.id} · {a.employeeCount} employees</div>
@@ -110,7 +114,10 @@ export default function OperationsTable({ accounts, onInspect }: OperationsTable
                 </td>
                 <td className="px-4 py-3 text-right">
                   <button
-                    onClick={() => onInspect(a.id)}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      onInspect(a.id);
+                    }}
                     className="rounded-md border border-ink-200 px-3 py-1.5 text-xs font-medium text-ink-700 transition-colors hover:border-brand-400 hover:bg-brand-50 hover:text-brand-700"
                   >
                     Inspect

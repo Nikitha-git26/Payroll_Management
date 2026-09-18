@@ -27,7 +27,7 @@ export default function OnboardingFunnelChart({ data }: { data: FunnelDatum[] })
   const total = data[0]?.count || 1;
 
   return (
-    <div className="h-72 w-full">
+    <div className="h-80 w-full">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart data={data} layout="vertical" margin={{ top: 4, right: 36, left: 4, bottom: 4 }}>
           <XAxis type="number" hide domain={[0, total]} />
